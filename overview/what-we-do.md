@@ -1,11 +1,17 @@
 # 💡 What we do
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
+## The physical trust stack for Web3
 
-## Video overview
+RDDL enables machine owners to attest and connect their machines to RDDL network. Attested machines can notarize&#x20;
 
-Got 2 minutes? Check out a video overview of our product:
+* data
+* produtivity
 
-{% embed url="https://www.loom.com/embed/3bfa83acc9fd41b7b98b803ba9197d90" %}
+and prove
+
+* origin and provenance of the data
+* integrity and authenticity of the data
+
+The machines notarize their activites and make their productivity transparent. RDDL network verifies the notarized claims of the machines with the help of the Proof of Productivity (PoP) - the challgen process of the network.
+
+The PoP process establishes the trust into the notarized data and verifies the availability of the data. Provenance and integrity are implicitly proven by the process.&#x20;

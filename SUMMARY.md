@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to RDDL](README.md)
 
 ## Overview
 
@@ -9,16 +9,15 @@
 
 ## Product Guides
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [✅ Understanding RDDL](product-guides/understanding-rddl.md)
 
 ## Fundamentals
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 Getting started](fundamentals/getting-started/README.md)
+  * [📝 Setting permissions](fundamentals/getting-started/setting-permissions.md)
+  * [🧑 Inviting Members](fundamentals/getting-started/inviting-members.md)
 
 ## Use Cases
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [🤖 For Machine Owners](use-cases/for-machine-owners.md)
+* [🤓 For Developers](use-cases/for-developers.md)
