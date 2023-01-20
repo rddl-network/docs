@@ -14,8 +14,9 @@
 ## Fundamentals
 
 * [🛠 Getting started](fundamentals/getting-started/README.md)
-  * [📝 Setting permissions](fundamentals/getting-started/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-started/inviting-members.md)
+  * [📝 Machine Provisioning](fundamentals/getting-started/machine-provisioning.md)
+  * [🧑 Machine Attestation](fundamentals/getting-started/machine-attestation.md)
+  * [👾 Validator Attestation](fundamentals/getting-started/validator-attestation.md)
 
 ## Use Cases
 

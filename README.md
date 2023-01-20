@@ -22,10 +22,10 @@ We've put together some helpful guides for you to get setup with our product qui
 [getting-started](fundamentals/getting-started/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-started/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-started/setting-permissions.md)
+{% content-ref url="fundamentals/getting-started/machine-provisioning.md" %}
+[machine-provisioning.md](fundamentals/getting-started/machine-provisioning.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-started/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-started/inviting-members.md)
+{% content-ref url="fundamentals/getting-started/machine-attestation.md" %}
+[machine-attestation.md](fundamentals/getting-started/machine-attestation.md)
 {% endcontent-ref %}

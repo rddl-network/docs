@@ -1,33 +1,21 @@
-# 🛠 Getting set up
+# 🛠 Getting started
 
-<details>
+In order to start working with the network a machines has to be given an identity and attested to the network thereafter.&#x20;
 
-<summary>Step1: Creating your organization</summary>
+The process of identity creation is called provisioning.
 
+{% content-ref url="machine-provisioning.md" %}
+[machine-provisioning.md](machine-provisioning.md)
+{% endcontent-ref %}
 
+The machine can be attested to the network (registered) after it has been provisioned.
 
-</details>
+{% content-ref url="machine-attestation.md" %}
+[machine-attestation.md](machine-attestation.md)
+{% endcontent-ref %}
 
-<details>
+Validators are attested in a specific way. This is mentioned on that pager here:
 
-<summary>Step 2: Inviting your team</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 3: Making your first post</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Step 4: Publishing a post</summary>
-
-
-
-</details>
+{% content-ref url="validator-attestation.md" %}
+[validator-attestation.md](validator-attestation.md)
+{% endcontent-ref %}
