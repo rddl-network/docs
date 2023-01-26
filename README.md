@@ -16,7 +16,7 @@ The RDDL network uses the Liquid network by [Blockstream](https://blockstream.co
 
 ## Get Started
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+We've put together some helpful guides to get set up with our product quickly and easily.
 
 {% content-ref url="fundamentals/getting-started/" %}
 [getting-started](fundamentals/getting-started/)

@@ -1,6 +1,6 @@
 # 🛠 Getting started
 
-In order to start working with the network a machines has to be given an identity and attested to the network thereafter.&#x20;
+To start working with the network, a machine must be given an identity and attested to the network afterwards.&#x20;
 
 The process of identity creation is called provisioning.
 
@@ -14,7 +14,7 @@ The machine can be attested to the network (registered) after it has been provis
 [machine-attestation.md](machine-attestation.md)
 {% endcontent-ref %}
 
-Validators are attested in a specific way. This is mentioned on that pager here:
+Validators are attested in a specific way. This is mentioned on that page here:
 
 {% content-ref url="validator-attestation.md" %}
 [validator-attestation.md](validator-attestation.md)
