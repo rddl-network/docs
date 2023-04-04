@@ -2,7 +2,7 @@
 
 ## How RDDL works
 
-Please read the [Whitepaper](https://rddl.io/whitepaper) of the RDDL network to get introduced to all the details and concepts.
+Please read the [Whitepaper](https://www.rddl.io/s/The-RDDL-Network-Vision-for-a-Physical-Trust-Layer-v13.pdf) of the RDDL network to get introduced to all the details and concepts.
 
 RDDL Network is the implementation of a protocol that achieves the following pillars:
 
