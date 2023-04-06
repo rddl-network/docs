@@ -17,8 +17,12 @@
   * [📝 Machine Provisioning](fundamentals/getting-started/machine-provisioning.md)
   * [🧑 Machine Attestation](fundamentals/getting-started/machine-attestation.md)
   * [👾 Validator Attestation](fundamentals/getting-started/validator-attestation.md)
+* [🪙 Tokens](fundamentals/tokens/README.md)
+  * [RDDL Token](fundamentals/tokens/rddl-token.md)
+  * [Asset Tokens](fundamentals/tokens/asset-tokens.md)
+  * [Application Tokens](fundamentals/tokens/application-tokens.md)
+  * [Wrapped Tokens](fundamentals/tokens/wrapped-tokens.md)
 
 ## Use Cases
 
-* [🤖 For Machine Owners](use-cases/for-machine-owners.md)
-* [🤓 For Developers](use-cases/for-developers.md)
+* [💳 Micro-Investment](use-cases/micro-investment.md)
