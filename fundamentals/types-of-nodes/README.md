@@ -22,6 +22,6 @@ The Computation Unit will contain the following Software components
 | Liquid Connector            | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 | Liquid Node                 |          :x:         | :white\_check\_mark: | :white\_check\_mark: |
 | Planemtint Node             |          :x:         |          :x:         | :white\_check\_mark: |
-| rddl-client                 | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
+| rddl-client (optional)      | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 | user-defined business logic | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 
