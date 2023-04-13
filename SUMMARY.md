@@ -23,6 +23,10 @@
   * [Application Tokens](fundamentals/tokens/application-tokens.md)
   * [Wrapped Tokens](fundamentals/tokens/wrapped-tokens.md)
 
+***
+
+* [Wallet Types](wallet-types.md)
+
 ## Use Cases
 
 * [💳 Micro-Investment](use-cases/micro-investment.md)
