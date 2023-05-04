@@ -18,14 +18,14 @@ The RDDL network uses the Liquid network by [Blockstream](https://blockstream.co
 
 We've put together some helpful guides to get set up with our product quickly and easily.
 
-{% content-ref url="fundamentals/getting-started/" %}
-[getting-started](fundamentals/getting-started/)
+{% content-ref url="fundamentals/getting-started.md" %}
+[getting-started.md](fundamentals/getting-started.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-started/machine-provisioning.md" %}
-[machine-provisioning.md](fundamentals/getting-started/machine-provisioning.md)
+{% content-ref url="use-cases/machine-provisioning.md" %}
+[machine-provisioning.md](use-cases/machine-provisioning.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-started/machine-attestation.md" %}
-[machine-attestation.md](fundamentals/getting-started/machine-attestation.md)
+{% content-ref url="use-cases/machine-attestation.md" %}
+[machine-attestation.md](use-cases/machine-attestation.md)
 {% endcontent-ref %}

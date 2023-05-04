@@ -2,9 +2,9 @@
 
 
 
-RDDL Network enables machine operators to issue dedicated [asset tokens](../fundamentals/tokens/asset-tokens.md) during the [machine attestation](../fundamentals/getting-started/machine-attestation.md).
+RDDL Network enables machine operators to issue dedicated [asset tokens](../fundamentals/tokens/asset-tokens.md) during the [machine attestation](machine-attestation.md).
 
-The asset tokens are managed via the [issuer wallet](../wallet-types.md) by the machine operator of the attestation. The asset tokens can be fractionalized and transferred to other wallets or beneficiaries via the 0x21e8 service that manages the issuer wallet or tools connected to the service.&#x20;
+The asset tokens are managed via the [issuer wallet](broken-reference) by the machine operator of the attestation. The asset tokens can be fractionalized and transferred to other wallets or beneficiaries via the 0x21e8 service that manages the issuer wallet or tools connected to the service.&#x20;
 
 Machine owners can now build applications containing policies, contracts and legal frameworks around the asset token that incentivize micro-investments into their assets.
 

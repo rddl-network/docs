@@ -13,23 +13,20 @@
 
 ## Fundamentals
 
-* [🛠 Getting started](fundamentals/getting-started/README.md)
-  * [📝 Machine Provisioning](fundamentals/getting-started/machine-provisioning.md)
-  * [🧑 Machine Attestation](fundamentals/getting-started/machine-attestation.md)
-  * [👾 Validator Attestation](fundamentals/getting-started/validator-attestation.md)
+* [🛠 Getting started](fundamentals/getting-started.md)
 * [🎆 Types of Nodes](fundamentals/types-of-nodes/README.md)
   * [👩💼 Business Logic](fundamentals/types-of-nodes/business-logic.md)
   * [👛 Wallet Management](fundamentals/types-of-nodes/wallet-management.md)
+  * [🔐 Key Ceremony](fundamentals/types-of-nodes/key-ceremony.md)
 * [🪙 Tokens](fundamentals/tokens/README.md)
   * [RDDL Token](fundamentals/tokens/rddl-token.md)
   * [Asset Tokens](fundamentals/tokens/asset-tokens.md)
   * [Application Tokens](fundamentals/tokens/application-tokens.md)
   * [Wrapped Tokens](fundamentals/tokens/wrapped-tokens.md)
 
-***
-
-* [Wallet Types](wallet-types.md)
-
 ## Use Cases
 
+* [📝 Machine Provisioning](use-cases/machine-provisioning.md)
+* [🧑 Machine Attestation](use-cases/machine-attestation.md)
+* [👾 Validator Attestation](use-cases/validator-attestation.md)
 * [💳 Micro-Investment](use-cases/micro-investment.md)
