@@ -13,7 +13,7 @@ RDDL Network is the implementation of a protocol that achieves the following pil
 
 ### Prerequisites
 
-To connect a machine to the RDDL network, an RDDL-compatible device needs to be attached and connected to the machine (via CAN bus). The RDDL-compatible device expects internet access to connect to the RDDL network.&#x20;
+An RDDL-compatible device must be attached and connected to the machine to connect the machine to the RDDL network. The RDDL-compatible device expects internet access to connect to the RDDL network.&#x20;
 
 The RDDl device has to run the [0x21e8 RDDL Interaction Service](https://github.com/rddl-network/0x21e8). The rddl-client usually initiates interaction with the service and RDDL network.
 
@@ -27,16 +27,16 @@ Machines must be attested to the network before they can notarize data and produ
 
 ### Machine Attestation
 
-The attestation process is executed on the RDDL community device. Detailed information can be found at[machine-attestation.md](../use-cases/machine-attestation.md "mention"). During the initial attestation process of a machine, the specifics of its investment capabilities can be defined. These definitions implicitly represent the token issuance process of the device.&#x20;
+The attestation process is executed on the RDDL community device. Detailed information can be found at[machine-attestation.md](../fundamentals/getting-started/machine-attestation.md "mention"). During the initial attestation process of a machine, the specifics of its investment capabilities can be defined. These definitions implicitly represent the token issuance process of the device.&#x20;
 
 ### Token Issuance
 
-Amongst others, the following parameters have to be defined for the issuance process
+Amongst others, the following parameters must be defined for the issuance process
 
-1. **amount** of tokens that are issued, e.g. something between 0 and 21 million. 0 is a corner case that indicates that no permit will be issued for the given machine.
+1. **amount** of tokens issued, e.g. something between 0 and 21 million. 0 is a corner case that indicates that no permit will be issued for the given machine.
 2. A **ticker**, 3 to 5 ASCII characters in length (e.g. “IPA”), used to denominate the amounts in a recognizable unit,
 3. an extended **name**, 5 to 255 ASCII characters in length (e.g. “The RDDL network token”), to give a human-readable title to the Issued Assets
-4. a **domain** that the issuer must control (e.g. “rddl.com”) is used to tie together all of the above information to the entity that also contains the domain submitted to the registry.
-5. Decimal **precision** is mainly helpful for issuers. For instance, two places of decimal precision would mean that 199 satoshis of the Issued Asset should be interpreted as 1.99 units of the Asset
+4. a **domain** that the issuer must control (e.g. “rddl.com”) is used to tie together all of the above information to the entity containing the domain submitted to the registry.
+5. Decimal **precision** is mainly helpful for issuers. For instance, two places of decimal precision would mean that 199 satoshis of the Issued Asset should be interpreted as 1.99 units of the Asset.
 
 The official documentation about how to [issue tokens on Liquid](https://docs.blockstream.com/liquid/technical\_overview.html#issued-assets) defines what needs to be defined for the machine token in more detail.&#x20;
