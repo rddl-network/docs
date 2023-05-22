@@ -11,6 +11,8 @@ RDDL Network is the implementation of a protocol that achieves the following pil
 3. Rewards productivity (if proven) - **Proof of Productivity** (**PoP**) - Liquid - the Bitcoin sidechain - (**Layer 2**)
 4. Notarizes data and productivity on Planetmint, a **Layer 1** solution
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Layer Overview</p></figcaption></figure>
+
 ### Prerequisites
 
 An RDDL-compatible device must be attached and connected to the machine to connect the machine to the RDDL network. The RDDL-compatible device expects internet access to connect to the RDDL network.&#x20;
