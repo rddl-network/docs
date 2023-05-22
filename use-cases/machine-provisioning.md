@@ -4,8 +4,6 @@ description: Is the process that gives an identifier/identity/secret to a machin
 
 # 📝 Machine Provisioning
 
-
-
 A user can restore a previous seed by initializing the service with a  **given** mnemonic phrase ([https://github.com/rddl-network/rddl-client](https://github.com/rddl-network/rddl-client)), the recover-seed.
 
 ```bash
@@ -13,7 +11,7 @@ rddl-client recover-seed --help
                                                                                                                                                                                                               
  Usage: rddl-client recover-seed [OPTIONS] MNEMONIC_PHRASE                                                                                                                                                    
                                                                                                                                                                                                               
- Recovers a seed from the menmonic phrase passed to the method (12 or 24 words). The lenght of the resulting mnemonic phrase implicitly defines the lenght of the seed.                                       
+ Recovers a seed from the menmonic phrase passed to the method (12 or 24 words). The length of the resulting mnemonic phrase implicitly defines the length of the seed.                                       
                                                                                                                                                                                                               
 ╭─ Arguments ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
 │ *    mnemonic_phrase      TEXT  The mnemonic phrase, a space seperated list of 12 or 24 words [default: None] [required]                                                                                   │
@@ -33,7 +31,7 @@ rddl-client create-seed --help
                                                                                                                                                                                                               
  Usage: rddl-client create-seed [OPTIONS] [WORDS]                                                                                                                                                             
                                                                                                                                                                                                               
- Creates a seed based on true randomness and provices a mnemonic phrase (12 or 24 words) as a backup of the generated seed. The lenght of the resulting mnemonic phrase implicitly defines the lenght of the  
+ Creates a seed based on true randomness and provices a mnemonic phrase (12 or 24 words) as a backup of the generated seed. The length of the resulting mnemonic phrase implicitly defines the length of the  
  seed.                                                                                                                                                                                                        
                                                                                                                                                                                                               
 ╭─ Arguments ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮

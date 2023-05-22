@@ -1,8 +1,8 @@
 # Asset Tokens
 
-Asset tokens are traded on the Liquid network ([SLIP44:  LBTC, 998 \[Symbol, ID\]](https://github.com/satoshilabs/slips/blob/master/slip-0044.md)) and can be fractionalized. The [machine attestation process](../../fundamentals/getting-started/machine-attestation.md) allows operators to issue asset tokens for the given machine.&#x20;
+Asset tokens are traded on the Liquid network ([SLIP44:  LBTC, 998 \[Symbol, ID\]](https://github.com/satoshilabs/slips/blob/master/slip-0044.md)) and can be fractionalized. The [machine attestation process](../../use-cases/machine-attestation.md) allows operators to issue asset tokens for the given machine.&#x20;
 
-The issued tokens will be given to the issuer wallet of the machine.&#x20;
+The issued tokens will be given to the issuer's wallet of the machine.&#x20;
 
 Asset tokens can be traded and are designed to represent the value of the machine and its productivity. Different use cases like micro-investments can be utilized with that and will be explained in the [use case section](broken-reference) in the future.
 

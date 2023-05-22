@@ -22,10 +22,10 @@ We've put together some helpful guides to get set up with our product quickly an
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-started/machine-provisioning.md" %}
-[machine-provisioning.md](fundamentals/getting-started/machine-provisioning.md)
+{% content-ref url="use-cases/machine-provisioning.md" %}
+[machine-provisioning.md](use-cases/machine-provisioning.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-started/machine-attestation.md" %}
-[machine-attestation.md](fundamentals/getting-started/machine-attestation.md)
+{% content-ref url="use-cases/machine-attestation.md" %}
+[machine-attestation.md](use-cases/machine-attestation.md)
 {% endcontent-ref %}
