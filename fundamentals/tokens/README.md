@@ -13,3 +13,16 @@
    * have economic value within the application being built by machine owners (based on the type of metadata stored)
 4. Tokens from other networks can be wrapped as Liquid Tokens. They are called [**wrapped tokens**](wrapped-tokens.md)**.**
    * example: Ocean ERC (ETH) token 1:1 wrapped on Liquid via ‘escrow’ account
+
+
+
+### Tokens & Layers
+
+| Token              | Layer              |
+| ------------------ | ------------------ |
+| RDDL               | Layer 2 Liquid     |
+| Asset Tokens       | Layer 2 Liquid     |
+| Application Tokens | Layer 1 Planetmint |
+| Wrapped Tokens     | Layer 2 Liquid     |
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
