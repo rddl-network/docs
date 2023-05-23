@@ -21,7 +21,7 @@ The Computing Unit will contain the following Software components.
 | Planetmint Connector                             | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 | Liquid Connector                                 | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 | rddl-client (optional)                           | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| user-defined [Business Logic](business-logic.md) | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
+| user-defined [Business Logic](business-logic.md) |          :x:         | :white\_check\_mark: | :white\_check\_mark: |
 | Liquid Node                                      |          :x:         | :white\_check\_mark: | :white\_check\_mark: |
 | Planemtint Node                                  |          :x:         |          :x:         | :white\_check\_mark: |
 
