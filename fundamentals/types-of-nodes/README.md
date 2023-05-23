@@ -2,7 +2,7 @@
 
 The following types of nodes exist in the RDDL Network and are listed with their HW and SW components.
 
-| HW Components/Node Types      |      Light Node      |     Machine Node     |    Validator Node    |
+| HW Components/Node Types      |     Tasmota Node     |     Machine Node     |    Validator Node    |
 | ----------------------------- | :------------------: | :------------------: | :------------------: |
 | Trust Anchor (Liquid)         | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 | Trust Anchor (Planetmint)     | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
@@ -15,7 +15,7 @@ The following types of nodes exist in the RDDL Network and are listed with their
 
 The Computing Unit will contain the following Software components.
 
-| Component/Node Types                             |      Light Node      |     Machine Node     |    Validator Node    |
+| Component/Node Types                             |     Tasmota Node     |     Machine Node     |    Validator Node    |
 | ------------------------------------------------ | :------------------: | :------------------: | :------------------: |
 | 0x21e8                                           | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
 | Planetmint Connector                             | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
