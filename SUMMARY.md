@@ -31,3 +31,7 @@
 ## ⚒ Infrastructure
 
 * [🧁 Services](infrastructure/services.md)
+
+## Tutorials
+
+* [Attesting a Machine to the Network](tutorials/attesting-a-machine-to-the-network.md)
