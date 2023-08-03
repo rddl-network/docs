@@ -10,14 +10,15 @@
 ## Basics
 
 * [✅ Understanding RDDL](product-guides/understanding-rddl.md)
+* [🎭 Actors](basics/actors.md)
 * [🎆 Types of Nodes](fundamentals/types-of-nodes/README.md)
-  * [👩💼 Business Logic](fundamentals/types-of-nodes/business-logic.md)
   * [👛 Wallet Management](basics/types-of-nodes/wallet-management.md)
   * [🔐 Key Ceremony](fundamentals/types-of-nodes/key-ceremony.md)
 * [🪙 Tokens](fundamentals/tokens/README.md)
   * [RDDL Token](fundamentals/tokens/rddl-token.md)
-  * [Asset Tokens](fundamentals/tokens/asset-tokens.md)
-  * [Application Tokens](fundamentals/tokens/application-tokens.md)
+  * [CID Assets](basics/tokens/cid-assets.md)
+  * [Machine Identity Token](basics/tokens/machine-identity-token.md)
+  * [RDDL Purpose Tokens](basics/tokens/rddl-purpose-tokens.md)
   * [Wrapped Tokens](fundamentals/tokens/wrapped-tokens.md)
 
 ## Use Cases

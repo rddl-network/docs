@@ -4,6 +4,8 @@
 
 Please read the [Whitepaper](https://www.rddl.io/s/The-RDDL-Network-Vision-for-a-Physical-Trust-Layer-v13.pdf) of the RDDL network to get introduced to all the details and concepts.
 
+The goal
+
 RDDL Network is the implementation of a protocol that achieves the following pillars:
 
 1. Connects and notarizes **Layer 0** (industrial and consumer machines) machines and their actions
@@ -42,3 +44,6 @@ Amongst others, the following parameters must be defined for the issuance proces
 5. Decimal **precision** is mainly helpful for issuers. For instance, two places of decimal precision would mean that 199 satoshis of the Issued Asset should be interpreted as 1.99 units of the Asset.
 
 The official documentation about how to [issue tokens on Liquid](https://docs.blockstream.com/liquid/technical\_overview.html#issued-assets) defines what needs to be defined for the machine token in more detail.&#x20;
+
+
+

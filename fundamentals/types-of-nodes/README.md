@@ -2,26 +2,11 @@
 
 The following types of nodes exist in the RDDL Network and are listed with their HW and SW components.
 
-| HW Components/Node Types      |     Tasmota Node     |     Machine Node     |    Validator Node    |
-| ----------------------------- | :------------------: | :------------------: | :------------------: |
-| Trust Anchor (Liquid)         | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| Trust Anchor (Planetmint)     | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| Smart Meter                   | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| Computing Unit                | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| Storage for Liquid Ledger     |          :x:         | :white\_check\_mark: | :white\_check\_mark: |
-| Storage for Planetmint Ledger |          :x:         |          :x:         | :white\_check\_mark: |
+<table><thead><tr><th width="280">HW Components/Node Types</th><th align="center">Tasmota Node</th><th align="center">Validator Node</th></tr></thead><tbody><tr><td>Trust Anchor (Liquid)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Trust Anchor (Planetmint)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Smart Meter</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Computing Unit</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Storage for Liquid Ledger</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Storage for Planetmint Ledger</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr></tbody></table>
 
 
 
 The Computing Unit will contain the following Software components.
 
-| Component/Node Types                             |     Tasmota Node     |     Machine Node     |    Validator Node    |
-| ------------------------------------------------ | :------------------: | :------------------: | :------------------: |
-| 0x21e8                                           | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| Planetmint Connector                             | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| Liquid Connector                                 | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| rddl-client (optional)                           | :white\_check\_mark: | :white\_check\_mark: | :white\_check\_mark: |
-| user-defined [Business Logic](business-logic.md) |          :x:         | :white\_check\_mark: | :white\_check\_mark: |
-| Liquid Node                                      |          :x:         | :white\_check\_mark: | :white\_check\_mark: |
-| Planemtint Node                                  |          :x:         |          :x:         | :white\_check\_mark: |
+<table><thead><tr><th width="284">Component/Node Types</th><th align="center">Tasmota Node</th><th align="center">Validator Node</th></tr></thead><tbody><tr><td>0x21e8 (or equal functionality)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Planetmint Connector</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Liquid Connector</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>rddl-client (optional)</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Liquid Node</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr><tr><td>Planemtint Node</td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td align="center"><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr></tbody></table>
 
