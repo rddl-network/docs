@@ -42,7 +42,3 @@ others more decentralized
 * staking
 * voting
 * flash loans
-
-
-
-*
