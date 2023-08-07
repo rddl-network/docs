@@ -15,7 +15,7 @@ Incentive tokens are usually exchanged for machine data and transferred to the a
 
 Shareholder tokens are usually issued by node owners/operators that let shareholders participate in the rewards of the productivity of their node.
 
-
+### Other purposes
 
 The issued tokens are not limited to the abovementioned purposes but can reflect other purposes. Some of them are sketched and mentioned here:
 
