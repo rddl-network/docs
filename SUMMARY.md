@@ -21,6 +21,10 @@
   * [RDDL Purpose Tokens](basics/tokens/rddl-purpose-tokens.md)
   * [Wrapped Tokens](fundamentals/tokens/wrapped-tokens.md)
 
+## Supported Hardware
+
+* [Espressif ESP32 & ESP32C3](supported-hardware/espressif-esp32-and-esp32c3.md)
+
 ## Use Cases
 
 * [📝 Machine Provisioning](use-cases/machine-provisioning.md)
