@@ -24,6 +24,7 @@
 ## Supported Hardware
 
 * [Espressif ESP32 & ESP32C3](supported-hardware/espressif-esp32-and-esp32c3.md)
+* [Shelly Plus Plug S](supported-hardware/shelly-plus-plug-s.md)
 
 ## Use Cases
 
