@@ -6,3 +6,7 @@ description: >-
 
 # 🔐 Key Ceremony
 
+The following types of key ceremony will be documented soon:
+
+1. Tasmota nodes
+2. Validators

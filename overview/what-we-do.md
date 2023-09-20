@@ -26,12 +26,11 @@ RDDL network enables economic actors to connect to trustful data sources that ca
 
 ## Economic participation
 
-Connecting productive machines and economic actors enables the devices to participate in markets. RDDL networks aim to allow machines to trade their data for RDDL Purpose Tokens.
-
-
+Connecting productive machines and economic actors enables the devices to participate in markets. RDDL network aims to allow machines to trade their data and signals for RDDL Purpose Tokens, guarantees market visibility to each and every device, and allows - up to a certain point - devices to be controlled by smart contract logic.
 
 The development phases of the RDDL Network can be sketched as follows
 
-* enable machines to prove existence, provide data, and participate in the PoP
+* enable machines to provide data provenance and existence and participate in the PoP
 * Enable 3rd parties to access machine data
 * Enable control over sets of devices
+

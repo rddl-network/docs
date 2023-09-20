@@ -14,12 +14,12 @@
 * [🎆 Types of Nodes](fundamentals/types-of-nodes/README.md)
   * [👛 Wallet Management](basics/types-of-nodes/wallet-management.md)
   * [🔐 Key Ceremony](fundamentals/types-of-nodes/key-ceremony.md)
-* [🪙 Tokens](fundamentals/tokens/README.md)
-  * [RDDL Token](fundamentals/tokens/rddl-token.md)
-  * [CID Assets](basics/tokens/cid-assets.md)
-  * [Machine Identity Token](basics/tokens/machine-identity-token.md)
-  * [RDDL Purpose Tokens](basics/tokens/rddl-purpose-tokens.md)
-  * [Wrapped Tokens](fundamentals/tokens/wrapped-tokens.md)
+* [🪙 Tokens](basics/tokens.md)
+* [🤝 Token Services](basics/token-services/README.md)
+  * [Machine Identity Attestation](basics/token-services/machine-identity-attestation.md)
+  * [RDDL Purpose Tokens](basics/token-services/rddl-purpose-tokens.md)
+  * [Wrapped Tokens](basics/token-services/wrapped-tokens.md)
+  * [CID Asset Notarization](basics/token-services/cid-asset-notarization.md)
 
 ## Supported Hardware
 

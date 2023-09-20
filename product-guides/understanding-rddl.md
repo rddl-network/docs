@@ -4,9 +4,7 @@
 
 Please read the [Whitepaper](https://www.rddl.io/s/The-RDDL-Network-Vision-for-a-Physical-Trust-Layer-v13.pdf) of the RDDL network to get introduced to all the details and concepts.
 
-The goal
-
-RDDL Network is the implementation of a protocol that achieves the following pillars:
+The goal of the RDDL Network is the implementation of a protocol that achieves the following pillars:
 
 1. Connects and notarizes **Layer 0** (industrial and consumer machines) machines and their actions
 2. Tokenizes **Layer 0** entities (optional) on Liquid - the Bitcoin sidechain - (**Layer 2**)
@@ -14,6 +12,10 @@ RDDL Network is the implementation of a protocol that achieves the following pil
 4. Notarizes data and productivity on Planetmint, a **Layer 1** solution
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Layer Overview</p></figcaption></figure>
+
+### Why
+
+To not overload **Layer 1** with metadata and to guarantee the settlement logic to **Layer 2**.
 
 ### Prerequisites
 

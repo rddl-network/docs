@@ -1,6 +1,6 @@
-# Machine Identity Token
+# Machine Identity Attestation
 
-Machine Identity Tokens are Liquid tokens issued by Planetmint validators during the machine attestation process. The tokens are configured in the following way
+Machine Identity attestation takes place on Planetmint  The following details are notarized during that process:
 
 * Token name:&#x20;
 * Token ticker: undefined
