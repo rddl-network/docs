@@ -3,7 +3,7 @@
 RDDL Network knows two types of tokens:
 
 1. The RDDL Network token **RDDL** on the Liquid Network is a classic utility and incentive token. The RDDL token is floating. The token is distributed as mentioned in the [whitepaper](https://static1.squarespace.com/static/6415d117eeef9450d9d98983/t/64184e907eadfe039cbce27a/1679314578865/The+RDDL+Network+-+Vision+for+a+Physical+Trust+Layer+-+v1.3.pdf).
-2. Planetmint service token **PLMNT** is pegged against the average global cost for producing 1 W of solar power.
+2. Planetmint service token **PLMNT** is pegged against the average global cost for producing 1 W of solar power (0.0004€).
 
 PLMNT can only be acquired by the RDDL token. Users can pay for specific RDDL network services with PLMNT. Examples are:
 
@@ -35,4 +35,8 @@ At this point, the Liquid network operated by Blockstream is used. In the future
 ### Transaction Fees
 
 The [default transaction fees](https://help.blockstream.com/hc/en-us/articles/900001386846-How-do-transaction-fees-on-Liquid-work-) of the Liquid Network apply to transactions of the RDDL token.
+
+The transaction fee on the Planetmint network is initially fixed and equals 1 PLMNT. Changes to this might be applied by chain governance.&#x20;
+
+
 
