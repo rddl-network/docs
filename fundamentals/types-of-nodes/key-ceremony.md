@@ -15,7 +15,7 @@ Keys and, therefore, identities are managed on both node types
 
 Tasmota nodes come with a pre-attested MachineID that enables them to start interacting with the RDDL Network. The MachineID comes as a part of the firmware or is defined with an attached crypto-chip.&#x20;
 
-The keys used to interact with Liquid and Planetmint are created via a key ceremony on the Tasmota Nodes. Details of the process are listed and laid out in the section about [compatible devices](../../supported-hardware/compatible-devices.md).
+The keys used to interact with Liquid and Planetmint are created via a key ceremony on the Tasmota Nodes. Details of the process are listed and laid out in the section about [compatible devices](broken-reference).
 
 The key ceremony includes the creation of the following identities:&#x20;
 

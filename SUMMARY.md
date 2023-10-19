@@ -23,9 +23,18 @@
 
 ## Supported Hardware
 
-* [Espressif ESP32 & ESP32C3](supported-hardware/espressif-esp32-and-esp32c3.md)
-* [Shelly Plus Plug S](supported-hardware/shelly-plus-plug-s.md)
-* [Compatible Devices](supported-hardware/compatible-devices.md)
+* [Participating in the RDDL Network](supported-hardware/participating-in-the-rddl-network/README.md)
+  * [How to register your Machine ID](supported-hardware/participating-in-the-rddl-network/how-to-register-your-machine-id.md)
+  * [Hardware: Planetmint & Service Interaction](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/README.md)
+    * [Machines with unique Firmware  (Testnet\&Mainnet)](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-unique-firmware-testnet-and-mainnet.md)
+    * [Machines with Secure Element (Testnet\&Mainnet)](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-secure-element-testnet-and-mainnet.md)
+    * [Machines with self-registered Private Key (Testnet)](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-self-registered-private-key-testnet.md)
+* [RDDL-Compatibility Requirements](supported-hardware/rddl-compatibility-requirements.md)
+* [RDDL-Compatible Devices](supported-hardware/rddl-compatible-devices/README.md)
+  * [Espressif ESP32 & ESP32C3](supported-hardware/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
+  * [Shelly Plus Plug S](supported-hardware/rddl-compatible-devices/shelly-plus-plug-s.md)
+* [RDDL Network HW approval process](supported-hardware/rddl-network-hw-approval-process.md)
+* [RDDL Network HW registration](supported-hardware/rddl-network-hw-registration.md)
 
 ## Use Cases
 
