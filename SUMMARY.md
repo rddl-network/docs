@@ -23,12 +23,12 @@
 
 ## Supported Hardware
 
-* [Participating in the RDDL Network](supported-hardware/participating-in-the-rddl-network/README.md)
-  * [How to register your Machine ID](supported-hardware/participating-in-the-rddl-network/how-to-register-your-machine-id.md)
-  * [Hardware: Planetmint & Service Interaction](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/README.md)
-    * [Machines with unique Firmware  (Testnet\&Mainnet)](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-unique-firmware-testnet-and-mainnet.md)
-    * [Machines with Secure Element (Testnet\&Mainnet)](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-secure-element-testnet-and-mainnet.md)
-    * [Machines with self-registered Private Key (Testnet)](supported-hardware/participating-in-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-self-registered-private-key-testnet.md)
+* [Onboarding Machines to the RDDL Network](supported-hardware/onboarding-machines-to-the-rddl-network/README.md)
+  * [How to register your Machine ID](supported-hardware/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id.md)
+  * [Hardware: Planetmint & Service Interaction](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/README.md)
+    * [Machines with unique Firmware  (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-unique-firmware-testnet-and-mainnet.md)
+    * [Machines with Secure Element (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-secure-element-testnet-and-mainnet.md)
+    * [Machines with self-registered Private Key (Testnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-self-registered-private-key-testnet.md)
 * [RDDL-Compatibility Requirements](supported-hardware/rddl-compatibility-requirements.md)
 * [RDDL-Compatible Devices](supported-hardware/rddl-compatible-devices/README.md)
   * [Espressif ESP32 & ESP32C3](supported-hardware/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
