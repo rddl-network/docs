@@ -7,17 +7,17 @@ RDDL Network knows two types of tokens:
 
 PLMNT can only be acquired by the RDDL token. Users can pay for specific RDDL network services with PLMNT. Examples are:
 
-* attest the identity of a specific solar power generator to the public ledger.
-* add the generator to a virtual power plant (VPP)
-* make generator signals and data sellable
-* issue a custom project token on the RDDL network (Liquid)
+* Attest the identity of a specific solar power generator to the public ledger.
+* Add the generator to a virtual power plant (VPP)
+* Make generator signals and data sellable
+* Issue a custom project token on the RDDL network (Liquid)
 * ...
 
 An initial RDDL liquidity pool orchestrated by the RDDL DAO exists on the RDDL network. These RDDL tokens will have an issuance value of 0.04 €.
 
 The corresponding PLMNT tokens will have a stable value of 0.0004 €. Initially, you will get 100 PLMNT for 1 RDDL.
 
-Initially, 1% of the RDDL DAO pool will be transferred to a Planetmint pool. The amount will change over time, according to network governance.
+Initially, 10% of the RDDL DAO pool will be transferred to a Planetmint pool. The amount will change over time, according to network governance.
 
 At this point, the Liquid network operated by Blockstream is used. In the future, RDDL Network might or might not migrate to its self-maintained elements network.
 
@@ -30,7 +30,7 @@ At this point, the Liquid network operated by Blockstream is used. In the future
 | RDDL Network Token       | Layer 2 - Liquid     |
 | Planetmint Network Token | Layer 1 - Planetmint |
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Transaction Fees
 
