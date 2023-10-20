@@ -1,11 +1,8 @@
 # Table of contents
 
 * [👋 Welcome to RDDL](README.md)
-
-## Overview
-
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+  * [💡 What we do](welcome-to-rddl/what-we-do.md)
+  * [✨ Our Features](welcome-to-rddl/our-features.md)
 
 ## Basics
 
