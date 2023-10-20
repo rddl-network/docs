@@ -1,6 +1,6 @@
-# Shelly Plus Plug S
+# 🔌 Shelly Plus Plug S
 
-The **Shelly Plus Plug S** does not have an **RDDL Network**-compatible Tasmota firmware. Instead, it comes with a Mongoose OS.
+The [**Shelly Plus Plug S**](https://www.amazon.de/Shelly-Plus-Plug-programmierbare-Sprachsteuerung/dp/B0BTJ1DTBX/ref=sr\_1\_2?keywords=shelly%2Bplug%2Bs\&sr=8-2\&th=1) does not have an **RDDL Network**-compatible Tasmota firmware. Instead, it comes with a Mongoose OS.
 
 It is possible to install an RDDL Network Tasmota version with the help of a [Mongoose OS to Tasmota converter.](https://github.com/tasmota/mgos32-to-tasmota32)
 
@@ -18,3 +18,6 @@ The following steps need to be executed:
 
 The LED configuration of the Plug can be configured as described at\
 [https://templates.blakadder.com/shelly\_plus\_plug\_S.html](https://templates.blakadder.com/shelly\_plus\_plug\_S.html).
+
+<figure><img src="../../.gitbook/assets/SHELLYPLUS PLUG S.png" alt="" width="375"><figcaption></figcaption></figure>
+
