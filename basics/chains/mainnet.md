@@ -8,6 +8,8 @@ The mainnet consists of several components, but most importantly it runs a versi
 
 **Denomination:** PLMNT
 
+**Genesis:** [genesis.json](planetmint-mainnet-1-genesis.json)
+
 ## Links
 
 | Name     | URL                      |

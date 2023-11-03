@@ -8,6 +8,8 @@ The testnet consists of several components, but most importantly it runs a versi
 
 **Denomination:** PLMNT
 
+**Genesis:** [genesis.json](planetmint-testnet-1-genesis.json)
+
 ## Links
 
 | Name     | URL                              |
