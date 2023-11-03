@@ -1,4 +1,4 @@
-# Testnet
+# 🧪 Testnet
 
 The testnet consists of several components, but most importantly it runs a version of [planetmint-go](https://github.com/planetmint/planetmint-go) and a [liquid](https://github.com/ElementsProject/elements) node.
 
@@ -7,6 +7,8 @@ The testnet consists of several components, but most importantly it runs a versi
 **ChainID:** planetmint-testnet-1
 
 **Denomination:** PLMNT
+
+**Genesis:** [genesis.json](planetmint-testnet-1-genesis.json)
 
 ## Links
 

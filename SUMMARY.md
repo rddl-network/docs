@@ -8,9 +8,9 @@
 
 * [✅ Understanding RDDL](product-guides/understanding-rddl.md)
 * [🎭 Actors](basics/actors.md)
-* [Chains](basics/chains/README.md)
-  * [Testnet](basics/chains/testnet.md)
-  * [Mainnet](basics/chains/mainnet.md)
+* [⛓️ Chains](basics/chains/README.md)
+  * [🧪 Testnet](basics/chains/testnet.md)
+  * [🕸️ Mainnet](basics/chains/mainnet.md)
 * [🪙 Tokens](basics/tokens/README.md)
   * [RDDL on Liquid](basics/tokens/rddl-on-liquid.md)
   * [PLMNT on Planetmint](basics/tokens/plmnt-on-planetmint.md)
