@@ -5,7 +5,7 @@ In order to flash this device there is some soldering required as the flashing m
 
 The configuration file for Buttons and other features can be added by following the instructions here: [https://templates.blakadder.com/sonoff\_POWR316D.html](https://templates.blakadder.com/sonoff\_POWR316D.html)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Flashing Sonoff - Tasmota
 
@@ -25,7 +25,7 @@ The configuration file for Buttons and other features can be added by following 
 
 1. Soldering Iron and solder paste
 2. 2 Pin headers\
-   ![](<../../.gitbook/assets/image (8).png>)
+   ![](<../../.gitbook/assets/image (8) (1).png>)
 3. Jumper Wires
 4. Screw-driver toolset
 5. [**ESP-Flasher**](https://github.com/Jason2866/ESP\_Flasher)\
@@ -43,31 +43,31 @@ The configuration file for Buttons and other features can be added by following 
        Or just download here directly:\
        [Tasmota32.bin download](https://ota.tasmota.com/tasmota32/release/tasmota32.bin)
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 Arrange the POW Elite on your desk, together with all the tools needed. Use precision screw-drivers to not mess up the screws and to not break the casing. Take care that the power meter was disconnected from the mains power long enough ( 5 to 10 mins).
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Flip the device to its backside and unscrew the four visible screws to take off the back cover of the device casing. Keep wires, jumpers, adapters, soldering tools at hand.
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the device is open you will recognize the 4 pin holes at the top of the PCB. There we will have to solder the connectors for 3.3V power, ground, data receive and transmit jump wires.
 
 Unscrew the additional 4 screws to take the PCB completely out of the casing. Keep the two sets of screws at a safe place, split from each other. Also take care for the mains power connectors, which will fall off once you unmount the PCB from the casing.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 Turn the PCB around and you will see the markings for the PIN outs it requires to solder. When you solder the PIN headers take care of the length of the headers. They will remain on the PCB when you reassemble board and casing. Also, take care that the headers on both sides reach out of the holes far enough to get well soldered. Bad soldering creates lose connections and creates noise. This noise might result in errors while flashing the firmware.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 

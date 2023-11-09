@@ -11,7 +11,7 @@ The goal of the RDDL Network is the implementation of a protocol that achieves t
 3. Rewards productivity (if proven) - **Proof of Productivity** (**PoP**) - Liquid - the Bitcoin sidechain - (**Layer 2**)
 4. Notarizes data and productivity on Planetmint, a **Layer 1** solution
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Layer Overview</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Layer Overview</p></figcaption></figure>
 
 ### Why
 

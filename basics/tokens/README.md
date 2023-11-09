@@ -30,7 +30,7 @@ At this point, the Liquid network operated by Blockstream is used. In the future
 | RDDL Network Token       | Layer 2 - Liquid     |
 | Planetmint Network Token | Layer 1 - Planetmint |
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Transaction Fees
 

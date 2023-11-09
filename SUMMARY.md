@@ -29,7 +29,7 @@
 * [Onboarding Machines to the RDDL Network](supported-hardware/onboarding-machines-to-the-rddl-network/README.md)
   * [How to register your Machine ID](supported-hardware/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id.md)
   * [Hardware: Planetmint & Service Interaction](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/README.md)
-    * [Machines with unique Firmware  (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-unique-firmware-testnet-and-mainnet.md)
+    * [Machines with unique Firmware (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-unique-firmware-testnet-and-mainnet.md)
     * [Machines with Secure Element (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-secure-element-testnet-and-mainnet.md)
     * [Machines with self-registered Private Key (Testnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-self-registered-private-key-testnet.md)
   * [⚓ Trust Anchor](supported-hardware/onboarding-machines-to-the-rddl-network/trust-anchor.md)
@@ -49,6 +49,7 @@
 * [👾 Validator Attestation](use-cases/validator-attestation.md)
 * [💳 Micro-Investment](use-cases/micro-investment.md)
 * [💾 Data notarization](use-cases/data-notarization.md)
+* [Tasmoda Node config](use-cases/tasmoda-node-config.md)
 
 ## ⚒ Infrastructure
 
