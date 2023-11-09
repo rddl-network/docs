@@ -49,7 +49,7 @@
 * [👾 Validator Attestation](use-cases/validator-attestation.md)
 * [💳 Micro-Investment](use-cases/micro-investment.md)
 * [💾 Data notarization](use-cases/data-notarization.md)
-* [Tasmoda Node config](use-cases/tasmoda-node-config.md)
+* [🛠 Tasmoda Node configuration](use-cases/tasmoda-node-configuration.md)
 
 ## ⚒ Infrastructure
 

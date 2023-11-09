@@ -1,4 +1,22 @@
-# Tasmoda Node config
+---
+coverY: 0
+layout:
+  cover:
+    visible: false
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🛠 Tasmoda Node configuration
 
 The nodes come with a firmware from [https://github.com/rddl-network/Tasmota](https://github.com/rddl-network/Tasmota) and are compatible to [https://github.com/planetmint/planetmint-go](https://github.com/planetmint/planetmint-go).
 
