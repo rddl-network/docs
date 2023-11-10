@@ -65,7 +65,9 @@ The Testnet Explorer can also be used to inspect the funds of the account
 
 [https://testnet-explorer.rddl.io/planetmint/accounts/plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma](https://testnet-explorer.rddl.io/planetmint/accounts/plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma)
 
-The Tasmota can now create, sign and broadcast transactions to the Planetmint Testnet. It does so every 3 minutes or if you execute the **Status 8** command.&#x20;
+Restart your node once.&#x20;
+
+The Tasmota can now create, sign and broadcast transactions to the Planetmint Testnet. It does so every 3 minutes or if you execute the **Status 8** command. Machine attestation is performed automatically and can be witnessed by looking at the explorer.
 
 The resulting transaction can be inspected on your account page on the [Testnet Explorer](https://testnet-explorer.rddl.io/planetmint).
 
