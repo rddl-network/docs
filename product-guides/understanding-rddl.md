@@ -33,7 +33,7 @@ Machines must be attested to the network before they can notarize data and produ
 
 ### Machine Attestation
 
-The attestation process is executed on the RDDL community device. Detailed information can be found at[machine-attestation.md](../use-cases/machine-attestation.md "mention"). During the initial attestation process of a machine, the specifics of its investment capabilities can be defined. These definitions implicitly represent the token issuance process of the device.&#x20;
+The attestation process is executed on the RDDL community device. Detailed information can be found at[Broken link](broken-reference "mention"). During the initial attestation process of a machine, the specifics of its investment capabilities can be defined. These definitions implicitly represent the token issuance process of the device.&#x20;
 
 ### Token Issuance
 

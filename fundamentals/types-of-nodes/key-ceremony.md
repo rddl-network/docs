@@ -23,7 +23,7 @@ The key ceremony includes the creation of the following identities:&#x20;
 * a keypair to interact on Planetmint
   * a derived address on Planetmint
 
-RDDL Network lets machines participate as soon as they attest themselves as part of the [Machine Attestation](../../use-cases/machine-attestation.md) workflow. Within the process of the machine attestation, the public keys of the machine on Liquid, Planetmint, the Planetmint address and the Machine ID are attested and associated with each other.&#x20;
+RDDL Network lets machines participate as soon as they attest themselves as part of the [Machine Attestation](broken-reference) workflow. Within the process of the machine attestation, the public keys of the machine on Liquid, Planetmint, the Planetmint address and the Machine ID are attested and associated with each other.&#x20;
 
 It is possible to look up and verify if a given public key, address or machine ID belongs to the same machine as another given public key, address or machine ID.&#x20;
 

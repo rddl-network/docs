@@ -44,11 +44,6 @@
 
 ## Use Cases
 
-* [📝 Machine Provisioning](use-cases/machine-provisioning.md)
-* [🧑 Machine Attestation](use-cases/machine-attestation.md)
-* [👾 Validator Attestation](use-cases/validator-attestation.md)
-* [💳 Micro-Investment](use-cases/micro-investment.md)
-* [💾 Data notarization](use-cases/data-notarization.md)
 * [🛠 Tasmoda Node configuration](use-cases/tasmoda-node-configuration.md)
 
 ## ⚒ Infrastructure
