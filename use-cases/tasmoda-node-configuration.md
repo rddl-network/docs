@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🛠 Tasmoda Node configuration
+# 🛠 Tasmota Node Configuration
 
 The nodes come with firmware from [https://github.com/rddl-network/Tasmota](https://github.com/rddl-network/Tasmota) and are compatible with [https://github.com/planetmint/planetmint-go](https://github.com/planetmint/planetmint-go).
 

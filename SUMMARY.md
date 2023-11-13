@@ -44,7 +44,7 @@
 
 ## Use Cases
 
-* [🛠 Tasmota Node Configuration](use-cases/tasmota-node-configuration.md)
+* [🛠 Tasmota Node Configuration](use-cases/tasmoda-node-configuration.md)
 
 ## ⚒ Infrastructure
 
@@ -52,4 +52,5 @@
 
 ## Tutorials
 
+* [Getting connected](tutorials/getting-connected.md)
 * [Attesting a Machine to the Network](tutorials/attesting-a-machine-to-the-network.md)
