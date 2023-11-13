@@ -44,7 +44,7 @@
 
 ## Use Cases
 
-* [🛠 Tasmoda Node Configuration](use-cases/tasmoda-node-configuration.md)
+* [🛠 Tasmota Node Configuration](use-cases/tasmota-node-configuration.md)
 
 ## ⚒ Infrastructure
 
