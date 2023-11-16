@@ -1,12 +1,12 @@
 # Table of contents
 
 * [👋 Welcome to RDDL](README.md)
-  * [💡 What we do](welcome-to-rddl/what-we-do.md)
-  * [✨ Our Features](welcome-to-rddl/our-features.md)
+  * [💡 What we do](readme/what-we-do.md)
+  * [✨ Our Features](readme/our-features.md)
 
 ## Basics
 
-* [✅ Understanding RDDL](product-guides/understanding-rddl.md)
+* [✅ Understanding RDDL](basics/understanding-rddl.md)
 * [🎭 Actors](basics/actors.md)
 * [⛓️ Chains](basics/chains/README.md)
   * [🧪 Testnet](basics/chains/testnet.md)
@@ -15,9 +15,9 @@
   * [RDDL on Liquid](basics/tokens/rddl-on-liquid.md)
   * [PLMNT on Planetmint](basics/tokens/plmnt-on-planetmint.md)
   * [Conversion Rate](basics/tokens/conversion-rate.md)
-* [🎆 Types of Nodes](fundamentals/types-of-nodes/README.md)
+* [🎆 Types of Nodes](basics/types-of-nodes/README.md)
   * [👛 Wallet Management](basics/types-of-nodes/wallet-management.md)
-  * [🔐 Key Ceremony](fundamentals/types-of-nodes/key-ceremony.md)
+  * [🔐 Key Ceremony](basics/types-of-nodes/key-ceremony.md)
 * [🤝 Token Services](basics/token-services/README.md)
   * [Machine Identity Attestation](basics/token-services/machine-identity-attestation.md)
   * [RDDL Purpose Tokens](basics/token-services/rddl-purpose-tokens.md)
@@ -44,7 +44,7 @@
 
 ## Use Cases
 
-* [🛠 Tasmota Node Configuration](use-cases/tasmoda-node-configuration.md)
+* [🛠 Tasmota Node Configuration](use-cases/tasmota-node-configuration.md)
 
 ## ⚒ Infrastructure
 
@@ -54,3 +54,4 @@
 
 * [Getting connected](tutorials/getting-connected.md)
 * [Attesting a Machine to the Network](tutorials/attesting-a-machine-to-the-network.md)
+* [Voting on chain parameters](tutorials/voting-on-chain-parameters.md)
