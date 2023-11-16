@@ -1,4 +1,4 @@
-# 🧪 Mainnet
+# 🕸 Mainnet
 
 The mainnet consists of several components, but most importantly it runs a version of [planetmint-go](https://github.com/planetmint/planetmint-go) and a [liquid](https://github.com/ElementsProject/elements) node.
 
