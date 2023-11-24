@@ -24,8 +24,13 @@ The following steps need to be executed:
    5. Be sure to refresh the shelly page after that to see the upload-file option on the web page.
 2. Follow the steps from [https://github.com/tasmota/mgos32-to-tasmota32](https://github.com/tasmota/mgos32-to-tasmota32) and upgrade to the newest Tasmota firmware.\
    **IMPORTANT NOTE ⚠️** Make sure to follow the steps **“⚠️ NEEDED ⚠️ Convert to Tasmota Safeboot and update to the latest Tasmota release”** on [https://github.com/tasmota/mgos32-to-tasmota32](https://github.com/tasmota/mgos32-to-tasmota32) otherwise, you won’t be able to upgrade to RDDL-compatible firmware and even might brick your device!
-3. Download new RDDL-compatible firmware from [https://testnet-ta.rddl.io/firmware/esp32](https://testnet-ta.rddl.io/firmware/esp32)
-4. Upgrade to the previously downloaded firmware by selecting _**Firmware Upgrade**_, dragging and dropping the _**tasmota32-rddl.bin**_ file onto the _**Upgrade by file upload**_ section and finally, by clicking _**Start Upgrade**_.
+3. Enter the _**Consoles -> Partition Wizard**_ page and resize the file system.&#x20;
+4. Download new RDDL-compatible firmware from [https://testnet-ta.rddl.io/firmware/esp32](https://testnet-ta.rddl.io/firmware/esp32)
+5. Upgrade to the previously downloaded firmware by selecting _**Firmware Upgrade**_, dragging and dropping the _**tasmota32-rddl.bin**_ file onto the _**Upgrade by file upload**_ section and finally, by clicking _**Start Upgrade**_.
+
+{% hint style="info" %}
+**Resizing (Step 3)** is important in order to have fresh working filesystem. Issues got experiencd otherwise.
+{% endhint %}
 
 The LED configuration of the Plug can be configured as described at\
 [https://templates.blakadder.com/shelly\_plus\_plug\_S.html](https://templates.blakadder.com/shelly\_plus\_plug\_S.html).
