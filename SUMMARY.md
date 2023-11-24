@@ -39,8 +39,8 @@
   * [🔌 Shelly Plus Plug S](supported-hardware/rddl-compatible-devices/shelly-plus-plug-s.md)
   * [Espressif ESP32 & ESP32C3](supported-hardware/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
   * [⚡ Energy Tracker (FW to be made)](supported-hardware/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
-* [RDDL Network HW approval process](supported-hardware/rddl-network-hw-approval-process.md)
 * [RDDL Network HW registration](supported-hardware/rddl-network-hw-registration.md)
+* [RDDL Network HW approval process](supported-hardware/rddl-network-hw-approval-process.md)
 
 ## Use Cases
 
