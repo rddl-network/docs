@@ -5,7 +5,7 @@ The devices listed below meet the [compatibility requirements ](../rddl-compatib
 **OEM devices**
 
 * [Shelly Plus Plug S](shelly-plus-plug-s.md)
-* Sonoff POWR316D POW Elite
+* [Sonoff POWR316D POW Elite](powr316d-elite.md)
 
 
 
