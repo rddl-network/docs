@@ -55,9 +55,13 @@ Enter the command **PlanetmintAPI** to set the URL to connect to the planetmint 
 
 Ensure that you also define the denomination, notarization periodicity, and the ChainID:
 
-* `PlanetmintDenom plmnt`  declares the token denomination used on the chain (testnet).
-* `PlanetmintChainID planetmint-testnet-1`  declares the ChainID of the testnet.
-* `NotarizationPeriodicity 3600` defines the notarization frequency in seconds. 3600 = 60\*60 seconds and lets the device notarize once an hour.
+* `PlanetmintDenom plmnt`  Declares the token denomination used on the chain (Testnet).
+* `PlanetmintChainID planetmint-testnet-1`  Declares the ChainID of the Testnet.
+* `NotarizationPeriodicity 3600` Defines the notarization frequency in seconds. 3600 = 60\*60 seconds and lets the device notarize once an hour.
+
+{% hint style="info" %}
+The above three configuration steps are important for firmware upgrades. The default values are set when flashing a new firmware. The parameters must be set explicitly in case of firmware upgrades.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-12-07 12-02-07.png" alt=""><figcaption></figcaption></figure>
 
