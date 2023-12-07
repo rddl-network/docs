@@ -53,6 +53,16 @@ Enter the command **PlanetmintAPI** to set the URL to connect to the planetmint 
 
 <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
+Ensure that you also define the denomination, notarization periodicity, and the ChainID:
+
+* `PlanetmintDenom plmnt`  declares the token denomination used on the chain (testnet).
+* `PlanetmintChainID planetmint-testnet-1`  declares the ChainID of the testnet.
+* `NotarizationPeriodicity 3600` defines the notarization frequency in seconds. 3600 = 60\*60 seconds and lets the device notarize once an hour.
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-12-07 12-02-07.png" alt=""><figcaption></figcaption></figure>
+
+
+
 Go to your Testnet Faucet [https://testnet-faucet.rddl.io/](https://testnet-faucet.rddl.io/) and fund your address (e.g. plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma)
 
 <figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
@@ -67,7 +77,12 @@ The Testnet Explorer can also be used to inspect the funds of the account
 
 Restart your node once.&#x20;
 
-The Tasmota can now create, sign and broadcast transactions to the Planetmint Testnet. It does so every 3 minutes or if you execute the **Status 8** command. Machine attestation is performed automatically and can be witnessed by looking at the explorer.
+The Tasmota can now create, sign and broadcast transactions to the Planetmint Testnet.\
+Please attest your machine now with the following command:
+
+`MachineAttest <machine type like fridge> <machine manufacturer like DIY Inc> <CID with additional information>`
+
+&#x20;After a successful attestation, the device will start notarizing consumption/production data. It does so every 60 minutes (3600 seconds) or if you execute the **Notarize** command. Machine attestation is performed automatically and can be witnessed by looking at the explorer.
 
 The resulting transaction can be inspected on your account page on the [Testnet Explorer](https://testnet-explorer.rddl.io/planetmint).
 
