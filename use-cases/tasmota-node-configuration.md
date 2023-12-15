@@ -84,7 +84,7 @@ Restart your node once.&#x20;
 The Tasmota can now create, sign and broadcast transactions to the Planetmint Testnet.\
 Please attest your machine now with the following command:
 
-`MachineAttest <machine type like fridge> <machine manufacturer like DIY Inc> <CID with additional information>`
+`AttestMachine <machine type like fridge> <machine manufacturer like DIY Inc> <CID with additional information>`
 
 &#x20;After a successful attestation, the device will start notarizing consumption/production data. It does so every 60 minutes (3600 seconds) or if you execute the **Notarize** command. Machine attestation is performed automatically and can be witnessed by looking at the explorer.
 
