@@ -12,13 +12,14 @@ The testnet consists of several components, but most importantly it runs a versi
 
 ## Links
 
-| Name     | URL                              |
-| -------- | -------------------------------- |
-| explorer | https://testnet-explorer.rddl.io |
-| api      | https://testnet-api.rddl.io      |
-| rpc      | https://testnet-rpc.rddl.io      |
-| ta       | https://testnet-ta.rddl.io       |
-| faucet   | https://testnet-faucet.rddl.io   |
+| Name       | URL                              |
+| ---------- | -------------------------------- |
+| explorer   | https://testnet-explorer.rddl.io |
+| api        | https://testnet-api.rddl.io      |
+| rpc        | https://testnet-rpc.rddl.io      |
+| ta         | https://testnet-ta.rddl.io       |
+| faucet     | https://testnet-faucet.rddl.io   |
+| rddl2plmnt | https://testnet-r2p.rddl.io      |
 
 ## Infrastructure
 

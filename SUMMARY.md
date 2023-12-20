@@ -55,3 +55,4 @@
 * [Getting connected](tutorials/getting-connected.md)
 * [Attesting a Machine to the Network](tutorials/attesting-a-machine-to-the-network.md)
 * [Voting on chain parameters](tutorials/voting-on-chain-parameters.md)
+* [Converting RDDL to PLMNT](tutorials/converting-rddl-to-plmnt.md)

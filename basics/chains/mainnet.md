@@ -12,12 +12,13 @@ The mainnet consists of several components, but most importantly it runs a versi
 
 ## Links
 
-| Name     | URL                      |
-| -------- | ------------------------ |
-| explorer | https://explorer.rddl.io |
-| api      | https://api.rddl.io      |
-| rpc      | https://rpc.rddl.io      |
-| ta       | https://ta.rddl.io       |
+| Name       | URL                      |
+| ---------- | ------------------------ |
+| explorer   | https://explorer.rddl.io |
+| api        | https://api.rddl.io      |
+| rpc        | https://rpc.rddl.io      |
+| ta         | https://ta.rddl.io       |
+| rddl2plmnt | https://r2p.rddl.io      |
 
 ## Infrastructure
 
