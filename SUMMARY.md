@@ -30,23 +30,19 @@
     * [🔢 Reward Calculation](basics/proof-of-productivity/rewards/reward-calculation.md)
     * [⌚ Clearance Process](basics/proof-of-productivity/rewards/clearance-process.md)
 
-## Supported Hardware
+## Getting Started
 
-* [Onboarding Machines to the RDDL Network](supported-hardware/onboarding-machines-to-the-rddl-network/README.md)
-  * [How to register your Machine ID](supported-hardware/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id.md)
-  * [Hardware: Planetmint & Service Interaction](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/README.md)
-    * [Machines with unique Firmware (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-unique-firmware-testnet-and-mainnet.md)
-    * [Machines with Secure Element (Testnet\&Mainnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-secure-element-testnet-and-mainnet.md)
-    * [Machines with self-registered Private Key (Testnet)](supported-hardware/onboarding-machines-to-the-rddl-network/hardware-planetmint-and-service-interaction/machines-with-self-registered-private-key-testnet.md)
-  * [⚓ Trust Anchor](supported-hardware/onboarding-machines-to-the-rddl-network/trust-anchor.md)
-* [RDDL-Compatibility Requirements](supported-hardware/rddl-compatibility-requirements.md)
-* [RDDL-Compatible Devices](supported-hardware/rddl-compatible-devices/README.md)
-  * [⏱ POWR316D Elite](supported-hardware/rddl-compatible-devices/powr316d-elite.md)
-  * [🔌 Shelly Plus Plug S](supported-hardware/rddl-compatible-devices/shelly-plus-plug-s.md)
-  * [Espressif ESP32 & ESP32C3](supported-hardware/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
-  * [⚡ Energy Tracker (FW to be made)](supported-hardware/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
-* [RDDL Network HW registration](supported-hardware/rddl-network-hw-registration.md)
-* [RDDL Network HW approval process](supported-hardware/rddl-network-hw-approval-process.md)
+* [📋 Onboarding Your Machines](getting-started/onboarding-machines-to-the-rddl-network/README.md)
+  * [Is my Hardware Supported?](getting-started/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/README.md)
+    * [Hardware approval process](getting-started/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/rddl-network-hw-approval-process.md)
+    * [Compatibility Requirements](getting-started/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/rddl-compatibility-requirements.md)
+  * [Registration of Machine ID and Attesting to the Network](getting-started/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
+* [✔ Supported Hardware](getting-started/rddl-compatible-devices/README.md)
+  * [⏱ POWR316D Elite](getting-started/rddl-compatible-devices/powr316d-elite.md)
+  * [🔌 Shelly Plus Plug S](getting-started/rddl-compatible-devices/shelly-plus-plug-s.md)
+  * [🔬 Espressif ESP32 & ESP32C3](getting-started/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
+  * [⚡ Energy Tracker (FW to be made)](getting-started/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
+  * [⚓ Trust Anchor](getting-started/rddl-compatible-devices/trust-anchor.md)
 
 ## Use Cases
 
