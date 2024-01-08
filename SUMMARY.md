@@ -23,6 +23,12 @@
   * [RDDL Purpose Tokens](basics/token-services/rddl-purpose-tokens.md)
   * [Wrapped Tokens](basics/token-services/wrapped-tokens.md)
   * [CID Asset Notarization](basics/token-services/cid-asset-notarization.md)
+* [🏁 Proof of Productivity](basics/proof-of-productivity/README.md)
+  * [👩🎤 Actor Selection](basics/proof-of-productivity/actor-selection.md)
+  * [⁉ Challenge-Response](basics/proof-of-productivity/challenge-response.md)
+  * [🌈 Rewards](basics/proof-of-productivity/rewards/README.md)
+    * [🔢 Reward Calculation](basics/proof-of-productivity/rewards/reward-calculation.md)
+    * [⌚ Clearance Process](basics/proof-of-productivity/rewards/clearance-process.md)
 
 ## Supported Hardware
 
