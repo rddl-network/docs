@@ -1,4 +1,4 @@
-# Is my Hardware Supported?
+# ❓ Is my Hardware Supported?
 
 Registering your Machine ID is a crucial step in onboarding your machine to the RDDL Network. The process varies depending on your machine type. Below, you'll find a flowchart that outlines the steps based on whether your hardware is RDDL certified, officially supported, or currently unsupported.
 
@@ -13,7 +13,7 @@ flowchart TD
     B-->|not officially supported| J
     F(Integrate libRDDL & Implement Testnet compatibility)--> |pass the HW approval and verification process| D
 		F--> G
-    G(create PRP-9 PR)--> |apply for Certified 3rd Party OEM vendor| I
+    G(create REP-9 PR)--> |apply for Certified 3rd Party OEM vendor| I
     I(The process to become a Certified RDDL HW OEM vendor)
 		J{Is it a ESP32/C3 Device?}-->|yes| E
 		J{Is it a ESP32/C3 Device?}-->|no| F
@@ -37,7 +37,7 @@ flowchart TD
    * If your hardware is **NOT** a ESP32/C3 device:
      * Integrate libRDDL and implement Testnet compatibility.
      * Pass the [hardware approval and verification process](rddl-network-hw-approval-process.md).
-     * Create PRP-9 PR.
+     * Create [REP-9](https://github.com/rddl-network/REPs) Pull Request.
      * Apply to become a Certified 3rd Party OEM vendor for RDDL.
 
 By following the steps in this flowchart, you can successfully register your Machine ID based on your hardware type. If you encounter any challenges or have questions, feel free to refer to additional resources or contact our support team for assistance. Happy onboarding!

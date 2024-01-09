@@ -32,10 +32,10 @@
 
 ## Getting Started
 
+* [❓ Is my Hardware Supported?](getting-started/how-to-register-your-machine-id/README.md)
+  * [Compatibility Requirements](getting-started/how-to-register-your-machine-id/rddl-compatibility-requirements.md)
+  * [Hardware approval process](getting-started/how-to-register-your-machine-id/rddl-network-hw-approval-process.md)
 * [📋 Onboarding Your Machines](getting-started/onboarding-machines-to-the-rddl-network/README.md)
-  * [Is my Hardware Supported?](getting-started/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/README.md)
-    * [Hardware approval process](getting-started/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/rddl-network-hw-approval-process.md)
-    * [Compatibility Requirements](getting-started/onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/rddl-compatibility-requirements.md)
   * [Registration of Machine ID and Attesting to the Network](getting-started/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
 * [✔ Supported Hardware](getting-started/rddl-compatible-devices/README.md)
   * [⏱ POWR316D Elite](getting-started/rddl-compatible-devices/powr316d-elite.md)

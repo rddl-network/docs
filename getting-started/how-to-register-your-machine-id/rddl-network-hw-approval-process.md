@@ -6,7 +6,7 @@ The RDDL Network HW approval process takes care about onboarding machiens differ
 
 * Integrate libRDDL and implement Testnet compatibility.
 * Pass the [hardware approval and verification process](rddl-network-hw-approval-process.md).
-* Create PRP-9 PR.
+* Create REP-9 PR.
 * Apply to become a Certified 3rd Party OEM vendor for RDDL.
 
 The process itself will be hosted and run on github.com via pull request to REP at [https://github.com/rddl-network/REPs/](https://github.com/rddl-network/REPs/).

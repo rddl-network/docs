@@ -1,6 +1,6 @@
 # ✔ Supported Hardware
 
-The devices listed below meet the [compatibility requirements ](../onboarding-machines-to-the-rddl-network/how-to-register-your-machine-id/rddl-compatibility-requirements.md)for the RDDL Network.
+The devices listed below meet the [compatibility requirements ](../how-to-register-your-machine-id/rddl-compatibility-requirements.md)for the RDDL Network.
 
 **OEM devices**
 
