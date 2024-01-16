@@ -57,10 +57,3 @@ The infrastructure runs on AWS and is managed by [Pulumi](https://github.com/rdd
 
 <table><thead><tr><th>Name</th><th width="90.33333333333331">Instance Type</th><th>URL</th></tr></thead><tbody><tr><td>planetmint-go-testnet-1</td><td>t3.medium</td><td>planetmint-go-testnet-1.rddl.io</td></tr><tr><td>planetmint-go-testnet-2</td><td>t3.medium</td><td>planetmint-go-testnet-2.rddl.io</td></tr><tr><td>planetmint-go-testnet-3</td><td>t3.medium</td><td>planetmint-go-testnet-3.rddl.io</td></tr><tr><td>planetmint-go-testnet-explorer</td><td>t3.medium</td><td>testnet-explorer.rddl.io</td></tr></tbody></table>
 
-
-
-
-
-*
-* [Mainnet](broken-reference)
-* [Testnet](broken-reference)
