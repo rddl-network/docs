@@ -46,14 +46,9 @@ The infrastructure runs on AWS and is managed by [Pulumi](https://github.com/rdd
 
 ### Mainnet
 
-| Name                           | Instance Type | URL                             |
-| ------------------------------ | ------------- | ------------------------------- |
-| planetmint-go-mainnet-1        | t3.medium     | planetmint-go-mainnet-1.rddl.io |
-| planetmint-go-mainnet-2        | t3.medium     | planetmint-go-mainnet-2.rddl.io |
-| planetmint-go-mainnet-3        | t3.medium     | planetmint-go-mainnet-3.rddl.io |
-| planetmint-go-mainnet-explorer | t3.medium     | explorer.rddl.io                |
+<table><thead><tr><th>Name</th><th width="157.33333333333331">Instance Type</th><th>URL</th></tr></thead><tbody><tr><td>planetmint-go-mainnet-1</td><td>t3.medium</td><td>planetmint-go-mainnet-1.rddl.io</td></tr><tr><td>planetmint-go-mainnet-2</td><td>t3.medium</td><td>planetmint-go-mainnet-2.rddl.io</td></tr><tr><td>planetmint-go-mainnet-3</td><td>t3.medium</td><td>planetmint-go-mainnet-3.rddl.io</td></tr><tr><td>planetmint-go-mainnet-explorer</td><td>t3.medium</td><td>explorer.rddl.io</td></tr></tbody></table>
 
 ### Testnet
 
-<table><thead><tr><th>Name</th><th width="90.33333333333331">Instance Type</th><th>URL</th></tr></thead><tbody><tr><td>planetmint-go-testnet-1</td><td>t3.medium</td><td>planetmint-go-testnet-1.rddl.io</td></tr><tr><td>planetmint-go-testnet-2</td><td>t3.medium</td><td>planetmint-go-testnet-2.rddl.io</td></tr><tr><td>planetmint-go-testnet-3</td><td>t3.medium</td><td>planetmint-go-testnet-3.rddl.io</td></tr><tr><td>planetmint-go-testnet-explorer</td><td>t3.medium</td><td>testnet-explorer.rddl.io</td></tr></tbody></table>
+<table><thead><tr><th>Name</th><th width="156.33333333333331">Instance Type</th><th>URL</th></tr></thead><tbody><tr><td>planetmint-go-testnet-1</td><td>t3.medium</td><td>planetmint-go-testnet-1.rddl.io</td></tr><tr><td>planetmint-go-testnet-2</td><td>t3.medium</td><td>planetmint-go-testnet-2.rddl.io</td></tr><tr><td>planetmint-go-testnet-3</td><td>t3.medium</td><td>planetmint-go-testnet-3.rddl.io</td></tr><tr><td>planetmint-go-testnet-explorer</td><td>t3.medium</td><td>testnet-explorer.rddl.io</td></tr></tbody></table>
 
