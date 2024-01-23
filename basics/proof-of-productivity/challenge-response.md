@@ -11,8 +11,8 @@ At the end of an epoch (2 min), the proposing Validator initiates the PoP-relate
 
 The initialized challenge-response process is described below:
 
-1. Challenger and challengee request the details of the PoP by calling[ /planetmint/planetmint-go/dao/get\_challenge/{height}](https://testnet-api.rddl.io/#/Query/PlanetmintgoDaoGetChallenge).
-2. The challenger selects a random `CID` from a list of CIDs for a certain period of time provided by calling [/planetmint/asset/get\_cids\_by\_address/{address}/{lookupPeriodInMin}](https://testnet-api.rddl.io/#/Query/PlanetmintgoAssetGetCIDsByAddress).
+1. Challenger and challengee request the details of the PoP by calling [/planetmint/dao/challenge/{height}](https://testnet-api.rddl.io/#/Query/PlanetmintgoDaoGetChallenge).
+2. The challenger selects a random `CID` from a list of CIDs for a certain period of time provided by calling [/planetmint/asset/address/{address}/{lookupPeriodInMin}](https://testnet-api.rddl.io/#/Query/PlanetmintgoAssetGetCIDsByAddress).
 3. The challenger subscribes to the `PoPChallengeResult-`topic of the challangee (`stat/<challangee-address>/POPCHALLENGERESULT`).
 4. The challenger sends the `cmnd/<challangee-address>/PoPChallenge <CID>` command to the challengee.
 5. The challengee looks up the corresponding CID data and transfers it to the challenger via the `POPCHALLENGERESULT`command.

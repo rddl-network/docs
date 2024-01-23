@@ -3,7 +3,7 @@
 The following paragraphs give an overview of how rewards are created and managed. The following stages are processed until someone can access their RDDL rewards:
 
 1. [Reward Calculation](./)
-2. Clearance Process: re-issuance & distribution
+2. [Clearance Process](clearance-process.md): re-issuance & distribution
 
 ## Staging the Rewards
 
