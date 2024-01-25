@@ -2,9 +2,13 @@
 
 The [**Shelly Plus Plug S**](https://www.amazon.de/Shelly-Plus-Plug-programmierbare-Sprachsteuerung/dp/B0BTJ1DTBX/ref=sr\_1\_2?keywords=shelly%2Bplug%2Bs\&sr=8-2\&th=1) does not have an **RDDL Network**-compatible Tasmota firmware. Instead, it comes with a Mongoose OS.
 
-It is possible to install an RDDL Network Tasmota version with the help of a [Mongoose OS to Tasmota converter.](https://github.com/tasmota/mgos32-to-tasmota32)
+It is possible to install a RDDL Network Tasmota version with the help of a [Mongoose OS to Tasmota converter.](https://github.com/tasmota/mgos32-to-tasmota32)
 
-The following steps need to be executed:
+Follow the steps to get your Shelly Plus Plug S RDDL ready.
+
+{% embed url="https://www.youtube.com/watch?t=456s&v=_P7g-TN85xs" %}
+
+Written guide:
 
 1. Setup your Shelly Plus Plug S and connect it to your network (see the manual)
    1. Connect to the ShellyPlusPlugS-Wifi of the device
@@ -18,7 +22,7 @@ The following steps need to be executed:
        1. the IP address can be looked up on your router
        2.  or via a network sniffing app for your OS.
 
-           <figure><img src="../../.gitbook/assets/Screenshot 2023-11-20 at 14.47.07.png" alt=""><figcaption></figcaption></figure>
+           <figure><img src="../../../.gitbook/assets/Screenshot 2023-11-20 at 14.47.07.png" alt=""><figcaption></figcaption></figure>
        3.
    4. Upgrade the device firmware by selecting _**Settings**_ and then _**Firmware**_.
    5. Be sure to refresh the shelly page after that to see the upload-file option on the web page.
@@ -35,5 +39,5 @@ The following steps need to be executed:
 The LED configuration of the Plug can be configured as described at\
 [https://templates.blakadder.com/shelly\_plus\_plug\_S.html](https://templates.blakadder.com/shelly\_plus\_plug\_S.html).
 
-<figure><img src="../../.gitbook/assets/SHELLYPLUS PLUG S.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SHELLYPLUS PLUG S.png" alt="" width="375"><figcaption></figcaption></figure>
 

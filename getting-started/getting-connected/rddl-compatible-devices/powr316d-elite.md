@@ -5,7 +5,7 @@ In order to flash this device there is some soldering required as the flashing m
 
 The configuration file for Buttons and other features can be added by following the instructions here: [https://templates.blakadder.com/sonoff\_POWR316D.html](https://templates.blakadder.com/sonoff\_POWR316D.html)
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ## Flashing Sonoff - Tasmota
 
@@ -25,7 +25,7 @@ The configuration file for Buttons and other features can be added by following 
 
 1. Soldering Iron and solder paste
 2. 2 Pin headers\
-   ![](<../../.gitbook/assets/image (27).png>)
+   ![](<../../../.gitbook/assets/image (27).png>)
 3. Jumper Wires
 4. Screw-driver toolset
 5. [**ESP-Flasher**](https://github.com/Jason2866/ESP\_Flasher)\
@@ -43,33 +43,33 @@ The configuration file for Buttons and other features can be added by following 
        Or just download here directly:\
        [Tasmota32.bin download](https://ota.tasmota.com/tasmota32/release/tasmota32.bin)
 
-<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Arrange the POW Elite on your desk, together with all the tools needed. Use precision screw-drivers to not mess up the screws and to not break the casing. Take care that the power meter was disconnected from the mains power long enough ( 5 to 10 mins).
 
-<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Flip the device to its backside and unscrew the four visible screws to take off the back cover of the device casing. Keep wires, jumpers, adapters, soldering tools at hand.
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 Once the device is open you will recognize the 4 pin holes at the top of the PCB. There we will have to solder the connectors for 3.3V power, ground, data receive and transmit jump wires.
 
 Unscrew the additional 4 screws to take the PCB completely out of the casing. Keep the two sets of screws at a safe place, split from each other. Also take care for the mains power connectors, which will fall off once you unmount the PCB from the casing.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Turn the PCB around and you will see the markings for the PIN outs it requires to solder. When you solder the PIN headers take care of the length of the headers. They will remain on the PCB when you reassemble board and casing. Also, take care that the headers on both sides reach out of the holes far enough to get well soldered. Bad soldering creates lose connections and creates noise. This noise might result in errors while flashing the firmware.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 After successful soldering put the PCB back into its case and screw it in, again. But keep the backside open, still. As a next step connect the Serial-to-USB connector with the right four jumper wires (female ends on both sides) to the PCB.
 
@@ -90,7 +90,7 @@ Then you can press the “Flash ESP” button inside the ESP-flasher user interf
 
 Now completely close the casing again. Reconnect the main power cord and connect main power, cable and Sonoff again to your validator node. Restart the validator node.
 
-<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 ## Using the flashed Sonoff/Tasmota
 
@@ -106,7 +106,7 @@ Inside your browser, a configuration window will appear. Select the right Module
 
 Press on “Configuration” and then “Configure other”. Copy the configuration template from below and paste it instead of the one in your Tasmota interface under **Other Parameters** → **Template** as on the screenshot below.
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 [**Configuration template**](https://templates.blakadder.com/sonoff\_POWR316D.html) for Sonoff POWR316D **Elite:**
 

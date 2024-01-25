@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🛠 Tasmota Node Configuration
+# 🛠 Configure your Hardware as a Tasmota Node
 
 The nodes come with firmware from [https://github.com/rddl-network/Tasmota](https://github.com/rddl-network/Tasmota) and are compatible with [https://github.com/planetmint/planetmint-go](https://github.com/planetmint/planetmint-go).
 
@@ -31,27 +31,27 @@ Initially, you have to
 
 Having that, you can connect to the node by browsing the IP address with HTTP.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Follow the menu to **Consoles→Console**.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 Enter the command **Mnemonic** and store the mnemonic to recover your funds and chain interaction identities later.
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 Enter the command **PublicKeys** to get to know your addresses and keys.
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
 Optional: Enter the command **MachineCID** to set the MachineCID for the initial MachineToken creation
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Enter the command **PlanetmintAPI** to set the URL to connect to the planetmint blockchain API. [https://testnet-api.rddl.io/](https://testnet-api.rddl.io/) is set as the default value.&#x20;
 
-<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
 
 Ensure that you also define the denomination, notarization periodicity, and the ChainID:
 
@@ -63,17 +63,17 @@ Ensure that you also define the denomination, notarization periodicity, and the 
 The above three configuration steps are important for firmware upgrades. The default values are set when flashing a new firmware. The parameters must be set explicitly in case of firmware upgrades.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-12-07 12-02-07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot from 2023-12-07 12-02-07.png" alt=""><figcaption></figcaption></figure>
 
 
 
 Go to your Testnet Faucet [https://testnet-faucet.rddl.io/](https://testnet-faucet.rddl.io/) and fund your address (e.g. plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma)
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 The Balance of the account can be inspected via the **Balance** command.
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 The Testnet Explorer can also be used to inspect the funds of the account
 

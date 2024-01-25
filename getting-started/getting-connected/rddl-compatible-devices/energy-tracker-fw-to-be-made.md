@@ -4,7 +4,7 @@
 
 > Thanks to Zigbee technology, the device can connect to a corresponding Zigbee Coordinator, which acts as a bridge between the Zigbee Tracker and Wi-Fi. The Zigbee Coordinator, in turn, is powered by 230V mains.
 
-<figure><img src="../../.gitbook/assets/Energy Tracker RDDL Green.png" alt=""><figcaption><p>Energy Tracker Casing Version 1 RDDL Green Translucent Filament Printed</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Energy Tracker RDDL Green.png" alt=""><figcaption><p>Energy Tracker Casing Version 1 RDDL Green Translucent Filament Printed</p></figcaption></figure>
 
 ## Component Specification
 
@@ -20,7 +20,7 @@
 
 ## Exploded View
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

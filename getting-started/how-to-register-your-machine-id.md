@@ -1,4 +1,4 @@
-# ❓ Is my Hardware Supported?
+# Is my Hardware Supported?
 
 Registering your Machine ID is a crucial step in onboarding your machine to the RDDL Network. The process varies depending on your machine type. Below, you'll find a flowchart that outlines the steps based on whether your hardware is RDDL certified, officially supported, or currently unsupported.
 
@@ -31,7 +31,7 @@ graph TD
 2. **Supported Hardware:**
    * If your hardware is officially supported but **DOES NOT** come with a unique preregistered Public Key:
      * Download the unique firmware provided.
-     * Flash the firmware onto your hardware.
+     * Flash the firmware onto your [supported hardware](getting-connected/rddl-compatible-devices/).
      * Proceed to attest your machine.
    * If your hardware is officially supported and **DOES** come with a unique preregistered Public Key:
      * &#x20;you can Proceed to attest your machine.

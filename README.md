@@ -8,4 +8,4 @@ Have a look at [What we do](readme/what-we-do.md) and [Our Features](readme/our-
 
 ## Get Started
 
-Have a look at [RDDL-compatible hardware](getting-started/rddl-compatible-devices/) and see how you can [onboard it to the RDDL Network](getting-started/onboarding-machines-to-the-rddl-network/) in order to get started.&#x20;
+Have a look at [RDDL-compatible hardware](broken-reference) and see how you can [onboard it to the RDDL Network](broken-reference) in order to get started.&#x20;

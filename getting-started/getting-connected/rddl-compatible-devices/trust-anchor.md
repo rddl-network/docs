@@ -5,5 +5,5 @@ The Trust Anchor is based on a Seeed Studio Xiao ESP32-C3 Chip combined with an 
 Here is the Github Repository to flash the RDDL Trust Anchor:\
 [https://github.com/rddl-network/trust-anchor-firmware](https://github.com/rddl-network/trust-anchor-firmware)
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 

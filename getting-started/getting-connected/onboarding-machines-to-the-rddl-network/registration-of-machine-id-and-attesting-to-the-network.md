@@ -12,7 +12,7 @@ The machineID and the corresponding public private key pair are used for the mac
 
 RDDL Network expects HW OEM vendors to register their devices on chain so that they are able to start interacting after attesting their machines.&#x20;
 
-The RDDL testnet allows a more flexible handling of the machineID in order to ease the on-boarding of new hardware and machines. Details about the workflows can be found at [onboarding Machines.](./)
+The RDDL testnet allows a more flexible handling of the machineID in order to ease the on-boarding of new hardware and machines. Details about the workflows can be found at [connecting your Machine to the Network](./)[.](./)
 
 ***
 

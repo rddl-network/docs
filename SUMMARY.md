@@ -30,29 +30,26 @@
 
 ## Getting Started
 
-* [❓ Is my Hardware Supported?](getting-started/how-to-register-your-machine-id/README.md)
-  * [Compatibility Requirements](getting-started/how-to-register-your-machine-id/rddl-compatibility-requirements.md)
-  * [Hardware approval process](getting-started/how-to-register-your-machine-id/rddl-network-hw-approval-process.md)
-* [📋 Onboarding Your Machines](getting-started/onboarding-machines-to-the-rddl-network/README.md)
-  * [Registration of Machine ID and Attesting to the Network](getting-started/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
-* [✔ Supported Hardware](getting-started/rddl-compatible-devices/README.md)
-  * [⏱ POWR316D Elite](getting-started/rddl-compatible-devices/powr316d-elite.md)
-  * [🔌 Shelly Plus Plug S](getting-started/rddl-compatible-devices/shelly-plus-plug-s.md)
-  * [🔬 Espressif ESP32 & ESP32C3](getting-started/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
-  * [⚡ Energy Tracker (FW to be made)](getting-started/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
-  * [⚓ Trust Anchor](getting-started/rddl-compatible-devices/trust-anchor.md)
+* [How can I participate?](getting-started/how-can-i-participate.md)
+* [Is my Hardware Supported?](getting-started/how-to-register-your-machine-id.md)
+* [Compatibility Requirements](getting-started/rddl-compatibility-requirements.md)
+* [Hardware approval process](getting-started/rddl-network-hw-approval-process.md)
+* [Getting Connected](getting-started/getting-connected/README.md)
+  * [✔ Flashing supported Hardware](getting-started/getting-connected/rddl-compatible-devices/README.md)
+    * [⏱ POWR316D Elite](getting-started/getting-connected/rddl-compatible-devices/powr316d-elite.md)
+    * [🔌 Shelly Plus Plug S](getting-started/getting-connected/rddl-compatible-devices/shelly-plus-plug-s.md)
+    * [🔬 Espressif ESP32 & ESP32C3](getting-started/getting-connected/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
+    * [⚡ Energy Tracker (FW to be made)](getting-started/getting-connected/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
+    * [⚓ Trust Anchor](getting-started/getting-connected/rddl-compatible-devices/trust-anchor.md)
+  * [🛠 Configure your Hardware as a Tasmota Node](getting-started/getting-connected/tasmota-node-configuration.md)
+  * [📋 Connecting your Machine to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/README.md)
+    * [Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
 
-## Use Cases
+## Workflows & Governance
 
-* [🛠 Tasmota Node Configuration](use-cases/tasmota-node-configuration.md)
+* [Converting RDDL to PLMNT](workflows-and-governance/converting-rddl-to-plmnt.md)
+* [Voting on chain parameters](workflows-and-governance/voting-on-chain-parameters.md)
 
 ## ⚒ Infrastructure
 
 * [🧁 Services](infrastructure/services.md)
-
-## Tutorials
-
-* [Getting connected](tutorials/getting-connected.md)
-* [Attesting a Machine to the Network](tutorials/attesting-a-machine-to-the-network.md)
-* [Voting on chain parameters](tutorials/voting-on-chain-parameters.md)
-* [Converting RDDL to PLMNT](tutorials/converting-rddl-to-plmnt.md)
