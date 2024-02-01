@@ -8,6 +8,10 @@ description: Voting on on-chain parameters that affect how the network functions
 
 Planetmint uses the Cosmos SDK governance module to enable stakeholders to collectively decide on important on-chain parameters and upgrades through a decentralized voting process. This documentation provides a step-by-step guide on how to participate in the voting process for chain parameters.
 
+{% hint style="info" %}
+A set of  Planetmint-specific on-chain parameters can be found at [REP-12](https://github.com/rddl-network/REPs/blob/main/rep12.md).
+{% endhint %}
+
 ### Prerequisites
 
 Before participating in the voting process, ensure that you have:
