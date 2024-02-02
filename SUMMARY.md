@@ -35,6 +35,7 @@
 * [🤓 Compatibility Requirements](getting-started/rddl-compatibility-requirements.md)
 * [🗜 Hardware approval process](getting-started/rddl-network-hw-approval-process.md)
 * [🥂 Getting Connected](getting-started/getting-connected/README.md)
+  * [⚡ Getting a Firmware](getting-started/getting-connected/getting-a-firmware.md)
   * [✔ Flashing supported Hardware](getting-started/getting-connected/rddl-compatible-devices/README.md)
     * [⏱ POWR316D Elite](getting-started/getting-connected/rddl-compatible-devices/powr316d-elite.md)
     * [🔌 Shelly Plus Plug S](getting-started/getting-connected/rddl-compatible-devices/shelly-plus-plug-s.md)
