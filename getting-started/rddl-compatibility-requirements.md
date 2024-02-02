@@ -2,7 +2,7 @@
 description: A list of requirements that qualify a device to be RDDL-compatible.
 ---
 
-# Compatibility Requirements
+# 🤓 Compatibility Requirements
 
 RDDL Network maintains a reference implementation of [Tasmota](https://github.com/rddl-network/Tasmota), supporting all the basic functionalities to participate in the RDDL Network protocol.
 

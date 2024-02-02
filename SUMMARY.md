@@ -30,11 +30,11 @@
 
 ## Getting Started
 
-* [How can I participate?](getting-started/how-can-i-participate.md)
-* [Is my Hardware Supported?](getting-started/how-to-register-your-machine-id.md)
-* [Compatibility Requirements](getting-started/rddl-compatibility-requirements.md)
-* [Hardware approval process](getting-started/rddl-network-hw-approval-process.md)
-* [Getting Connected](getting-started/getting-connected/README.md)
+* [❓ How can I participate?](getting-started/how-can-i-participate.md)
+* [🧐 Is my Hardware Supported?](getting-started/how-to-register-your-machine-id.md)
+* [🤓 Compatibility Requirements](getting-started/rddl-compatibility-requirements.md)
+* [🗜 Hardware approval process](getting-started/rddl-network-hw-approval-process.md)
+* [🥂 Getting Connected](getting-started/getting-connected/README.md)
   * [✔ Flashing supported Hardware](getting-started/getting-connected/rddl-compatible-devices/README.md)
     * [⏱ POWR316D Elite](getting-started/getting-connected/rddl-compatible-devices/powr316d-elite.md)
     * [🔌 Shelly Plus Plug S](getting-started/getting-connected/rddl-compatible-devices/shelly-plus-plug-s.md)
@@ -43,7 +43,7 @@
     * [⚓ Trust Anchor](getting-started/getting-connected/rddl-compatible-devices/trust-anchor.md)
   * [🛠 Configure your Hardware as a Tasmota Node](getting-started/getting-connected/tasmota-node-configuration.md)
   * [📋 Connecting your Machine to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/README.md)
-    * [Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
+    * [® Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
 
 ## Workflows & Governance
 

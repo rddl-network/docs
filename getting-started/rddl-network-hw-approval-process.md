@@ -1,4 +1,4 @@
-# Hardware approval process
+# 🗜 Hardware approval process
 
 The RDDL Network HW approval process takes care about onboarding machiens different to the Tasmota references implementation. The protocol hasn't been completely specified.&#x20;
 
