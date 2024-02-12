@@ -6,9 +6,17 @@ It is possible to install a RDDL Network Tasmota version with the help of a [Mon
 
 Follow the steps to get your Shelly Plus Plug S RDDL ready.
 
-{% embed url="https://www.youtube.com/watch?t=456s&v=_P7g-TN85xs" %}
+**Video guide:**
 
-Written guide:
+{% embed url="https://www.youtube.com/watch?v=_Xv1U5Fz2Y4" %}
+
+1st Link: [MgOs to Tasmota Github](https://github.com/tasmota/mgos32-to-tasmota32)
+
+2nd Link: [RDDL Firmware](https://testnet-ta.rddl.io/firmware/esp32)
+
+3rd Link: [LED Configuration](https://templates.blakadder.com/shelly\_plus\_plug\_S.html)
+
+**Written guide**:
 
 1. Setup your Shelly Plus Plug S and connect it to your network (see the manual)
    1. Connect to the ShellyPlusPlugS-Wifi of the device
