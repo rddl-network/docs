@@ -1,7 +1,8 @@
 # ⚓ Trust Anchor
 
-The Trust Anchor is based on a Seeed Studio Xiao ESP32-C3 Chip combined with an SE050 Secure Element which enhances product data trustworthiness by providing an immutable digital identity easily connectable to any device on RDDL Network.\
-The RDDL Trust Anchors Hardware consists of a powerful development board based on the popular Xiao ESP32-C3 microcontroller, but with a critical addition: the **SE050 Secure Element** chip. This combination creates a powerful and adaptable platform for connected devices, offering unparalleled protection for sensitive data and enhanced trust through a unique identity verification system. Machines join the network by proving their existence via interconnected Trust Anchors, acting as hardware wallets that establish their identity.
+The RDDL Trust Anchor combines a powerful development board based on the popular Xiao ESP32-C3 microcontroller with an SE050 Secure Element chip, enhancing product data trustworthiness by providing an immutable digital identity easily connectable to any device on the RDDL Network.
+
+This powerful and adaptable platform for connected devices offers unparalleled protection for sensitive data and enhanced trust through a unique identity verification system. Machines join the network by proving their existence via interconnected Trust Anchors, acting as hardware wallets that establish their identity.
 
 **Why Choose the RDDL Trust Anchor?**
 
