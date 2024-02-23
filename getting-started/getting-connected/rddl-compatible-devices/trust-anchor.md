@@ -25,6 +25,7 @@ This section will provide detailed instructions on setting up your RDDL Trust An
 **Additional Resources:**
 
 * RDDL Trust Anchor Datasheet \[To be added]
+* [Seed Xiao ESP32-C3 Documentation](https://wiki.seeedstudio.com/XIAO\_ESP32C3\_Getting\_Started/)
 * [SE050 Secure Element Documentation](https://www.nxp.com/products/security-and-authentication/authentication/edgelock-se050-plug-and-trust-secure-element-family-enhanced-iot-security-with-high-flexibility:SE050)
 * Example Projects and Tutorials \[To be added]
 * RDDL Trust Anchor Community Forum \[To be added]
