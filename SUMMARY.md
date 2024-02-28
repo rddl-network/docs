@@ -8,7 +8,7 @@
 
 * [✅ Understanding RDDL](basics/understanding-rddl.md)
 * [🎭 Actors](basics/actors.md)
-* [⛓ Networks](basics/chains.md)
+* [⛓️ Networks](basics/chains.md)
 * [🪙 Tokens](basics/tokens/README.md)
   * [RDDL on Liquid](basics/tokens/rddl-on-liquid.md)
   * [PLMNT on Planetmint](basics/tokens/plmnt-on-planetmint.md)
@@ -22,8 +22,8 @@
   * [Wrapped Tokens](basics/token-services/wrapped-tokens.md)
   * [CID Asset Notarization](basics/token-services/cid-asset-notarization.md)
 * [🏁 Proof of Productivity](basics/proof-of-productivity/README.md)
-  * [👩🎤 Actor Selection](basics/proof-of-productivity/actor-selection.md)
-  * [⁉ Challenge-Response](basics/proof-of-productivity/challenge-response.md)
+  * [👩‍🎤 Actor Selection](basics/proof-of-productivity/actor-selection.md)
+  * [⁉️ Challenge-Response](basics/proof-of-productivity/challenge-response.md)
   * [🌈 Rewards](basics/proof-of-productivity/rewards/README.md)
     * [🔢 Reward Calculation](basics/proof-of-productivity/rewards/reward-calculation.md)
     * [⌚ Clearance Process](basics/proof-of-productivity/rewards/clearance-process.md)
@@ -33,24 +33,24 @@
 * [❓ How can I participate?](getting-started/how-can-i-participate.md)
 * [🧐 Is my Hardware Supported?](getting-started/how-to-register-your-machine-id.md)
 * [🤓 Compatibility Requirements](getting-started/rddl-compatibility-requirements.md)
-* [🗜 Hardware approval process](getting-started/rddl-network-hw-approval-process.md)
+* [🗜️ Hardware approval process](getting-started/rddl-network-hw-approval-process.md)
 * [🥂 Getting Connected](getting-started/getting-connected/README.md)
   * [⚡ Getting a Firmware](getting-started/getting-connected/getting-a-firmware.md)
-  * [✔ Flashing supported Hardware](getting-started/getting-connected/rddl-compatible-devices/README.md)
-    * [⏱ POWR316D Elite](getting-started/getting-connected/rddl-compatible-devices/powr316d-elite.md)
+  * [✔️ Flashing supported Hardware](getting-started/getting-connected/rddl-compatible-devices/README.md)
+    * [⏱️ POWR316D Elite](getting-started/getting-connected/rddl-compatible-devices/powr316d-elite.md)
     * [🔌 Shelly Plus Plug S](getting-started/getting-connected/rddl-compatible-devices/shelly-plus-plug-s.md)
     * [🔬 Espressif ESP32 & ESP32C3](getting-started/getting-connected/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
     * [⚡ Energy Tracker (FW to be made)](getting-started/getting-connected/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
     * [⚓ Trust Anchor](getting-started/getting-connected/rddl-compatible-devices/trust-anchor.md)
-  * [🛠 Configure your Hardware as a Tasmota Node](getting-started/getting-connected/tasmota-node-configuration.md)
+  * [🛠️ Configure your Hardware as a Tasmota Node](getting-started/getting-connected/tasmota-node-configuration.md)
   * [📋 Connecting your Machine to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/README.md)
-    * [® Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
+    * [®️ Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
 
 ## Workflows & Governance
 
 * [Converting RDDL to PLMNT](workflows-and-governance/converting-rddl-to-plmnt.md)
 * [Voting on chain parameters](workflows-and-governance/voting-on-chain-parameters.md)
 
-## ⚒ Infrastructure
+## ⚒️ Infrastructure
 
 * [🧁 Services](infrastructure/services.md)
