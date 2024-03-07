@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ⛓ Networks
+# ⛓️ Networks
 
 The following public networks are currently maintained and available:
 
@@ -30,7 +30,7 @@ One can find the configuration in the GitHub[ ansible repository](https://github
 
 ## Links
 
-<table><thead><tr><th>Name</th><th width="197">Mainnet</th><th>Testnet</th></tr></thead><tbody><tr><td>Explorer</td><td>https://explorer.rddl.io</td><td>https://testnet-explorer.rddl.io</td></tr><tr><td>API (Planetmint)</td><td>https://api.rddl.io</td><td>https://testnet-api.rddl.io</td></tr><tr><td>RPC (tendermint)</td><td>https://rpc.rddl.io</td><td>https://testnet-rpc.rddl.io</td></tr><tr><td>Trust Anchor registration</td><td>https://ta.rddl.io</td><td>https://testnet-ta.rddl.io</td></tr><tr><td>Faucet</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>https://testnet-faucet.rddl.io</td></tr><tr><td>rddl2plmnt</td><td>https://r2p.rddl.io</td><td>https://testnet-r2p.rddl.io</td></tr><tr><td>Machine 2 Machine (Mqtt)</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>mqtt://testnet-mqtt.rddl.io:1885</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="254">Name</th><th width="208">Mainnet</th><th>Testnet</th></tr></thead><tbody><tr><td>Explorer</td><td>https://explorer.rddl.io</td><td>https://testnet-explorer.rddl.io</td></tr><tr><td>API (Planetmint)</td><td>https://api.rddl.io</td><td>https://testnet-api.rddl.io</td></tr><tr><td>RPC (tendermint)</td><td>https://rpc.rddl.io</td><td>https://testnet-rpc.rddl.io</td></tr><tr><td>Trust Anchor registration</td><td>https://ta.rddl.io</td><td>https://testnet-ta.rddl.io</td></tr><tr><td>Faucet</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>https://testnet-faucet.rddl.io</td></tr><tr><td>rddl2plmnt</td><td>https://r2p.rddl.io</td><td>https://testnet-r2p.rddl.io</td></tr><tr><td>Machine 2 Machine (MQTT)</td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>mqtt://testnet-mqtt.rddl.io:1885</td></tr><tr><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="274c">❌</span></td><td>mqtts://testnet-mqtt.rddl.io:1886</td></tr></tbody></table>
 
 ## Machine 2 Machine Network
 
@@ -38,7 +38,9 @@ RDDL Network currently uses MQTT as the machine-to-machine network. The service 
 
 However, at this point, the following user/password pair can be used to access the service via&#x20;
 
-rddl-tasmota : bE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ
+user: \`rddl-tasmota\`
+
+pass: zbE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ\`
 
 ## Infrastructure
 
