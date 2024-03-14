@@ -38,9 +38,9 @@ RDDL Network currently uses MQTT as the machine-to-machine network. The service 
 
 However, at this point, the following user/password pair can be used to access the service via&#x20;
 
-user: \`rddl-tasmota\`
+user: rddl-tasmota
 
-pass: zbE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ\`
+pass: zbE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ
 
 ## Infrastructure
 
