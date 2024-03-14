@@ -27,6 +27,7 @@
   * [🌈 Rewards](basics/proof-of-productivity/rewards/README.md)
     * [🔢 Reward Calculation](basics/proof-of-productivity/rewards/reward-calculation.md)
     * [⌚ Clearance Process](basics/proof-of-productivity/rewards/clearance-process.md)
+* [🤝 Reissuance & Distribution](basics/reissuance-and-distribution.md)
 
 ## Getting Started
 
