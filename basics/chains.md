@@ -40,7 +40,7 @@ However, at this point, the following user/password pair can be used to access t
 
 user: rddl-tasmota
 
-pass: zbE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ
+pass: bE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ
 
 ## Infrastructure
 
