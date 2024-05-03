@@ -51,6 +51,7 @@
 
 * [Converting RDDL to PLMNT](workflows-and-governance/converting-rddl-to-plmnt.md)
 * [Voting on chain parameters](workflows-and-governance/voting-on-chain-parameters.md)
+* [Redeeming RDDL tokens](workflows-and-governance/redeeming-rddl-tokens.md)
 
 ## ⚒️ Infrastructure
 
