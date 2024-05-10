@@ -17,7 +17,7 @@ layout:
     visible: true
 ---
 
-# 🛠 Configure your Hardware as a Tasmota Node
+# 🛠️ Configure your Hardware as a Tasmota Node
 
 The nodes come with firmware from [https://github.com/rddl-network/Tasmota](https://github.com/rddl-network/Tasmota) and are compatible with [https://github.com/planetmint/planetmint-go](https://github.com/planetmint/planetmint-go).
 
@@ -65,9 +65,20 @@ The above three configuration steps are important for firmware upgrades. The def
 
 <figure><img src="../../.gitbook/assets/Screenshot from 2023-12-07 12-02-07.png" alt=""><figcaption></figcaption></figure>
 
+### Preparing machine for attestation
 
+Next you need to create the machine account own chain. This is necessary so that the machine can attest itself to the chain which uses 1 PLMNT. After your machine is attested and activated it will receive 8800 PLMNTs which is enough to notarize data for a year if the notarization periodicity is set to 1 hour.
 
-Go to your Testnet Faucet [https://testnet-faucet.rddl.io/](https://testnet-faucet.rddl.io/) and fund your address (e.g. plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma)
+You can this in two ways:
+
+1. fund the machine address by sending PLMNT tokens to the address (e.g.: plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma)
+2. send a request create-account  to the Trust Anchor Registration Service like so:&#x20;
+
+```
+ curl -X POST -H "Content-Type: application/json" -d "{\"machine-id\":\"03a0aa69aaf9e4817c02b3d2b649efa76a8fe52013a43f933c65df9c3a4400040c\", \"plmnt-address\":\"plmnt10addjzn66e0u9kfy4ku307zjd0z3dyqd45gjh7\", \"signature\":\"0f254d93269468f5c0269430252aca8fa43af7a7095b07f26b4187e8abd747306803be9b1f1eee9bfb8347de279aa3b8fa8975c5c9b8faea80ff00cfa7ac8989\"}" https://testnet-ta.rddl.io/create-account
+```
+
+**Testnet only:** Alternatively if you are on the testnet you can go to the Testnet Faucet [https://testnet-faucet.rddl.io/](https://testnet-faucet.rddl.io/) and fund your address (e.g. plmnt1xjfmfeuu533h40sz0jcjkc5727ph3cy8r0d4ma)
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 

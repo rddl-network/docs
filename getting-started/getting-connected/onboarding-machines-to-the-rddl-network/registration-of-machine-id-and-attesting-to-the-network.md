@@ -1,4 +1,4 @@
-# Registration of Machine ID and Attesting to the Network
+# ®️ Registration of Machine ID and Attesting to the Network
 
 Every hardware interacting with RDDL Network needs to be attested before being able to start interacting. RDDL Networks assumes that hardware comes with a hardware secure element such as integrate in the [Trust Anchor](../rddl-compatible-devices/trust-anchor.md) and expects that Trust Anchors are registered to the network before interaction starts.&#x20;
 
@@ -38,7 +38,14 @@ sequenceDiagram
     TA-Attest->>Operator: return unique firmware
     Operator->>Machine: flash firmware
     Operator->>Machine: configure Machine: Mnemonic, PublicKeys, Planetmint-API, -Denom, -ChainID
+    alt fund machine
     Operator->>Planetmint: fund machine
+    else create account
+    Operator->>TA-Attest: create account: MachineID, MachineIDSignature, PlanetmintAddress
+    TA-Attest->>Planetmint: request TA status
+    Planetmint-->>TA-Attest: TA status {activated: true/false}
+    TA-Attest->>Planetmint: fund machine for self attestation
+    end
     Machine->>Planetmint: Attest machine
     loop 
     Machine->>Planetmint: notarize CID/asset
@@ -75,7 +82,14 @@ sequenceDiagram
     Operator-->3rdPartyOEM: acquire machine
     Operator->>Machine: flash RDDL-compatible firmware
     Operator->>Machine: configure Machine: Mnemonic, PublicKeys, Planetmint-API, -Denom, -ChainID
+    alt fund machine
     Operator->>Planetmint: fund machine
+    else create account
+    Operator->>TA-Attest: create account: MachineID, MachineIDSignature, PlanetmintAddress
+    TA-Attest->>Planetmint: request TA status
+    Planetmint-->>TA-Attest: TA status {activated: true/false}
+    TA-Attest->>Planetmint: fund machine for self attestation
+    end
     Machine->>Planetmint: Attest machine
     loop 
     Machine->>Planetmint: notarize CID/asset
@@ -104,7 +118,14 @@ sequenceDiagram
 	  TA-Attest->>Planetmint: attest TA identity (public key)
     Operator->>Machine: flash RDDL-compatible firmware
     Operator->>Machine: configure Machine: Mnemonic, PublicKeys, Planetmint-API, -Denom, -ChainID
+    alt fund machine
     Operator->>Planetmint: fund machine
+    else create account
+    Operator->>TA-Attest: create account: MachineID, MachineIDSignature, PlanetmintAddress
+    TA-Attest->>Planetmint: request TA status
+    Planetmint-->>TA-Attest: TA status {activated: true/false}
+    TA-Attest->>Planetmint: fund machine for self attestation
+    end
     Machine->>Planetmint: Attest machine
     loop 
     Machine->>Planetmint: notarize CID/asset
