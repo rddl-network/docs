@@ -36,11 +36,11 @@ One can find the configuration in the GitHub[ ansible repository](https://github
 
 RDDL Network currently uses MQTT as the machine-to-machine network. The service will be extended so that machines can authenticate via a JWT token related to their private/public key on Planetmint.&#x20;
 
-However, at this point, the following user/password pair can be used to access the services on testnet and mainnet&#x20;
+However, at this point, the following user/password pairs can be used to access the services on testnet and mainnet&#x20;
 
-user: rddl-tasmota
+<table><thead><tr><th width="181">Network</th><th width="158">User</th><th>Password</th></tr></thead><tbody><tr><td>testnet</td><td>rddl-tasmota</td><td>bE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ</td></tr><tr><td>mainnet</td><td>rddl-tasmota</td><td>Xs0liJviALEJLWgHJ3vI4MbYHqahG0sP</td></tr></tbody></table>
 
-pass: bE91dLR49FmsTtR2xbFCJfmgaGwTqeZJ
+
 
 ## Infrastructure
 
