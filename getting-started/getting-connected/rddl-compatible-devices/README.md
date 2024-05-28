@@ -1,11 +1,11 @@
-# ✔ Flashing supported Hardware
+# ✔️ Flashing supported Hardware
 
 The devices listed below meet the [compatibility requirements ](../../rddl-compatibility-requirements.md)for the RDDL Network.
 
 **OEM devices**
 
-* [Sonoff POWR316D POW Elite](broken-reference)
-* [Shelly Plus Plug S](powr316d-elite.md)
+* [Sonoff POWR316D POW Elite](powr316d-elite.md)
+* [Shelly Plus Plug S](shelly-plus-plug-s.md)
 * [Espressif ESP32 & ESP32C3](espressif-esp32-and-esp32c3.md)
 
 **RDDL (certified) devices**
