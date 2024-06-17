@@ -11,7 +11,8 @@ The devices listed below meet the [compatibility requirements ](../../rddl-compa
 **RDDL (certified) devices**
 
 * [Energy Tracker](energy-tracker-fw-to-be-made.md)
-* [Trust Anchor](trust-anchor.md)
+* [Trust Wallet](trust-anchor.md)
+* [Energy Agent](../../the-energyagent/)
 
 **Potentially supported OEM devices**
 
