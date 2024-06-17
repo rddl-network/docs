@@ -14,15 +14,17 @@
 
 **Distribution**: Issued and reissued tokens are distributed to&#x20;
 
-* DAO 61%
-* Investors 31%
-* PoP escrow 8%
+* Strategic investors: 2%
+* Foundation: 19%
+* Investors: 10%
+* Community/DAO 61%
+* PoP/machine-challenge: 8%
 
 **Reconciliation**: Reissuance and distribution are triggered every 24 hours to reduce Liquid's economic footprint/costs.
 
 ## Liquid Wallets
 
-RDDL Network-operated Liquid wallets are protected and only accessible via a **2-out-of-3** or **3-out-of-5** quorum. All wallets are only opened and accessed for transferring funds.
+RDDL Network-operated Liquid wallets are protected and only accessible via a **2-out-of-3** or **3-out-of-5** quorum. All wallets are only opened and accessed to transfer funds.
 
 ### Re/Issuance wallet
 
