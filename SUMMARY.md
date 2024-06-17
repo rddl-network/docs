@@ -46,6 +46,8 @@
   * [🛠️ Configure your Hardware as a Tasmota Node](getting-started/getting-connected/tasmota-node-configuration.md)
   * [📋 Connecting your Machine to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/README.md)
     * [®️ Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
+* [⚡ The EnergyAgent](getting-started/the-energyagent/README.md)
+  * [▶️ Installation](getting-started/the-energyagent/installation.md)
 
 ## Workflows & Governance
 

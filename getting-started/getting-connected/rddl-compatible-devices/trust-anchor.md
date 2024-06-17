@@ -8,8 +8,8 @@ This powerful and adaptable platform for connected devices offers unparalleled p
 
 * **Enhanced Security:** The SE050 Secure Element provides hardware-backed security, isolating cryptographic keys and sensitive data from the main microcontroller. This ensures they remain tamper-proof and protected even if the main system is compromised.
 * **Simplified Development:** The RDDL Trust Anchor integrates seamlessly with popular development tools and frameworks, allowing you to leverage existing ESP32-C3 resources while adding a layer of robust security without extensive coding or hardware expertise.
-* **Compact Design:** Despite its added security features, the RDDL Trust Anchor maintains a compact form factor, making it ideal for space-constrained machine integrations.
-* **Multiple Applications:** Secure boot, data encryption, secure storage, user authentication, and more – the possibilities are endless!
+* **Compact Design:** Despite its added security features, the RDDL Trust Anchor maintains a compact form, making it ideal for space-constrained machine integrations.
+* **Multiple Applications:** Secure boot, data encryption, secure storage, user authentication, and more – endless possibilities!
 
 
 

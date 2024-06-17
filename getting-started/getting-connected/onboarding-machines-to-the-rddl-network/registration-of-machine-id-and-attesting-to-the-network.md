@@ -1,22 +1,22 @@
 # ®️ Registration of Machine ID and Attesting to the Network
 
-Every hardware interacting with RDDL Network needs to be attested before being able to start interacting. RDDL Networks assumes that hardware comes with a hardware secure element such as integrate in the [Trust Anchor](../rddl-compatible-devices/trust-anchor.md) and expects that Trust Anchors are registered to the network before interaction starts.&#x20;
+Every piece of hardware interacting with RDDL Network needs to be attested before it can start interacting. RDDL Networks assumes that hardware comes with a hardware secure element, such as integrated into the Trust Anchor, and expects that Trust Anchors are registered to the network before the interaction starts.&#x20;
 
-Trust Anchors are identified via their a public/private keypair that is provisioned to them and might never change. The public key is registered to the chain via the TrustAnchor Attestation serivce [https://testnet-ta.rddl.io](https://testnet-ta.rddl.io).
+Trust Anchors are identified via a public/private key pair that is provisioned to them and might never change. The public key is registered to the chain via the TrustAnchor Attestation service: https://testnet-ta.rddl.io.
 
-The service deploys new random identites to downloaded firmwares and in the case of the testnet, enalbe the registration of public keys in the format of string of characters representing a the [bytes of the public secp256k1 public key](https://github.com/rddl-network/ta\_attest/blob/main/cmd/ta/main.go#L203).
+The service deploys new random identities to downloaded firmware and, in the case of the testnet, allows the registration of public keys in the format of a string of characters representing the [bytes of the public secp256k1 public key](https://github.com/rddl-network/ta\_attest/blob/main/cmd/ta/main.go#L203).
 
 {% hint style="info" %}
-The machineID and the corresponding public private key pair are used for the machine on-boarding onto the network. This key pair is unrelated to the key material used to interact with the chain directly (e.g. to sign transactions, hold funds, ...).
+The machineID and the corresponding public-private key pair are used for the machine's onboarding onto the network. This key pair is unrelated to the key material used to interact with the chain directly (e.g., to sign transactions, hold funds, etc.).
 {% endhint %}
 
-RDDL Network expects HW OEM vendors to register their devices on chain so that they are able to start interacting after attesting their machines.&#x20;
+RDDL Network expects HW OEM vendors to register their devices on the chain so that they can start interacting after attesting their machines.&#x20;
 
-The RDDL testnet allows a more flexible handling of the machineID in order to ease the on-boarding of new hardware and machines. Details about the workflows can be found at [connecting your Machine to the Network](./)[.](./)
+The RDDL testnet allows more flexible handling of the machineID to ease the onboarding of new hardware and machines. Details about the workflows can be found at Connecting Your[ Machine to the Network](./)[.](./)
 
 ***
 
-If you want to work with the Test net **AND** The Main net you can do so either by using Machines with unique Firmware or Machines with a Secure Element. If you are just interested in learning with the Test net, you can simply use Machines with self-registered Public Key. Be aware that these Machines are not supported on the Main net.\
+If you want to work with the Testnet **AND** The Mainnet, you can use Machines with unique Firmware or Machines with a Secure Element. If you want to learn with the Testnet, you can simply use Machines with a self-registered Public Key. Be aware that these Machines are not supported on the Main net.\
 
 
 ## Testnet + Mainnet:
