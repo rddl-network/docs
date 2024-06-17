@@ -36,17 +36,7 @@ The RDDL network identity and the needed key material are managed by the attache
 
 The RDDL network configuration (mainnet or testnet) can be set via the UI or the command line. For more details, see the [installation and configuration instructions](installation.md).
 
-Quick Installation
 
-
-
-
-
-* [ ] &#x20;Wallet init/key ceremony/ disaster backup preparation...
-* [ ] &#x20;RDDL attestation & setup
-* [ ] &#x20;Shelly/Tasmota configuration / attach/configure SMDs
-* [ ] &#x20;Discord-based knowledge base and help/support center / FAQ
-* [ ] &#x20;preattestet Trustwallet usage
 
 
 
