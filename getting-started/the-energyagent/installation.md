@@ -2,7 +2,7 @@
 
 The installation of the essential components can be quickly done by running the following command after plugging the TrustWallet into the Energy Agent:
 
-`wget https://raw.githubusercontent.com/rddl-network/EnergyAgent/main/prepare_energy_agent.sh && sudo chmod 755 prepare_energy_agent.sh && sudo ./prepare_energy_agent.sh`\
+`wget https://raw.githubusercontent.com/rddl-network/EnergyAgent/main/prepare_energy_agent.sh && chmod 755 prepare_energy_agent.sh && ./prepare_energy_agent.sh`\
 \
 The above command will download an installation script that executes the following tasks:
 
