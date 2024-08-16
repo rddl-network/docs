@@ -121,6 +121,12 @@ For **Client** and **Topic** set your machine's address.
 
 #### Not finding your device on the network:
 
-* If you cannot fund your account (i.e.: via `ta(-testnet).rddl.io/create-account` or funding your account manually). Check if your machine address exists on the the correct network under the following link:\
+* If you cannot fund your account (i.e.: via `ta(-testnet).rddl.io/create-account` Or funding your account manually). Check if your machine address exists on the correct network under the following link:\
   [https://testnet-api.rddl.io/#/Query/PlanetmintgoMachineGetMachineByAddress](https://testnet-api.rddl.io/#/Query/PlanetmintgoMachineGetMachineByAddress) or [https://api.rddl.io/#/Query/PlanetmintgoMachineGetMachineByAddress](https://testnet-api.rddl.io/#/Query/PlanetmintgoMachineGetMachineByAddress)\
-  If not you probably downloaded a firmware for the wrong network as your firmware will be attested for either the testnet or mainnet. Check the links posted [here](https://docs.rddl.io/rddl-network/getting-started/getting-connected/getting-a-firmware).
+  If not, you probably downloaded firmware for the wrong network, as your firmware will be attested for either the testnet or mainnet. Check the links posted [here](https://docs.rddl.io/rddl-network/getting-started/getting-connected/getting-a-firmware).
+
+**Unable to connect to the MQTT service - connection error 62**
+
+* The Tasmota version rddl-v0.43.0 and below do not recognize the newest Let's Encrypt root certificates and drop the TLS connection because of an untrusted CA. Executing the following command on the command line \
+  `setoption132 1`\
+  will enable certificate verification but disable the AWS IoT and Let's Encrypt certificate check. This will solve the issue as the certificates are valid, and the connection will again work as expected.&#x20;
