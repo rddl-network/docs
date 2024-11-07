@@ -2,7 +2,7 @@
 
 ## Overview
 
-RDDL leverages the power of two innovative technologies: the **Liquid Network**, a high-performance Bitcoin sidechain developed by [**Blockstream**](https://blockstream.com/liquid/), and [**Planetmint**](https://planetmint.io/), a next-generation data storage solution from the [**IPLD Foundation**](https://ipld.io/). This combination enables secure, efficient, and collaborative interactions within the RDDL network.
+RDDL leverages the power of two innovative technologies. The **Liquid Network**, a high-performance Bitcoin sidechain developed by [**Blockstream**](https://blockstream.com/liquid/)**.** And secondly [**Planetmint**](https://planetmint.io/), a next-generation data storage solution from the [**IPLD Foundation**](https://ipld.io/). This combination enables secure, efficient and collaborative interactions within the RDDL network.
 
 ### **Explore the Possibilities:**
 
