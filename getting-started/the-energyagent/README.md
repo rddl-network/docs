@@ -2,13 +2,13 @@
 
 RDDL.io developed the EnergyAgent to overcome limitations we faced while integrating that we faced during the integration of different sets of solutions.&#x20;
 
-The EnergyAgent's goal is to work as a rock-solid piece of hardware to notarize the consumption of a range of smart metering devices (SMDs) that cannot connect to the RDDL network.
+The EnergyAgent's goal is to work as a rock-solid piece of hardware to notarize the consumption of a range of smart metering devices (SMDs) that cannot natively connect to the RDDL network.
 
 Incoming data is collected via an MQTT service hosted on the EnergyAgent, and the RDDL network identity is managed by an attached TrustAnchor Wallet.
 
 Multiple wireless protocols (e.g., Zigbee, LoRa, WiFi, etc.) are supported to connect various devices to the EnergyAgent. More details can be found in the respective hardware details section.
 
-<figure><img src="../../.gitbook/assets/Energy Agent_compactV3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/r1000_Packaging_2024-Nov-07_09-20-40AM-000_CustomizedView13525540106.png" alt=""><figcaption></figcaption></figure>
 
 ### Key Feature
 
