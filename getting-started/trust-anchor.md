@@ -13,26 +13,15 @@ This powerful and adaptable platform for connected devices offers unparalleled p
 
 
 
-**Getting Started with the RDDL Trust Wallet:**
-
-This section will provide detailed instructions on setting up your RDDL Trust Wallet, including:
-
-* Hardware setup and pinout diagram \[To be added]
-* [Installing necessary software and libraries](https://github.com/rddl-network/trust-anchor-firmware)
-* Programming examples for utilizing the SE050 Secure Element features \[To be added]
-* Troubleshooting tips and FAQs \[To be added]
-
 **Additional Resources:**
 
-* RDDL Trust Wallet Datasheet \[To be added]
 * [Seed Xiao ESP32-C3 Documentation](https://wiki.seeedstudio.com/XIAO\_ESP32C3\_Getting\_Started/)
 * [SE050 Secure Element Documentation](https://www.nxp.com/products/security-and-authentication/authentication/edgelock-se050-plug-and-trust-secure-element-family-enhanced-iot-security-with-high-flexibility:SE050)
-* [Trust Wallet firmware](https://github.com/rddl-network/trust-anchor-wallet)
 * Using [libocc](https://github.com/rddl-network/libocc) to communicate with the Trust Wallet
 * Integrated by the [Energy Agent](https://github.com/rddl-network/energyagent)&#x20;
 * [RDDL Trust Wallet Community ](https://discord.gg/2BnqCGpAgY)
 
 **Empower connected devices with the RDDL Trust Wallet, a powerful and versatile solution for secure and reliable identity verification. Its ease of use, compact design, and robust security features unlock diverse applications, building trust and confidence in your interconnected world.**
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 

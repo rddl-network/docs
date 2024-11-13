@@ -8,7 +8,7 @@ Incoming data is collected via an MQTT service hosted on the EnergyAgent, and th
 
 Multiple wireless protocols (e.g., Zigbee, LoRa, WiFi, etc.) are supported to connect various devices to the EnergyAgent. More details can be found in the respective hardware details section.
 
-<figure><img src="../../.gitbook/assets/r1000_Packaging_2024-Nov-07_09-20-40AM-000_CustomizedView13525540106.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reComputer_R1000_2024-Jul-15_09-39-04AM-000_CustomizedView25406760874.png" alt=""><figcaption></figcaption></figure>
 
 ### Key Feature
 

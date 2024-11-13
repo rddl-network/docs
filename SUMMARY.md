@@ -42,12 +42,13 @@
     * [🔌 Shelly Plus Plug S](getting-started/getting-connected/rddl-compatible-devices/shelly-plus-plug-s.md)
     * [🔬 Espressif ESP32 & ESP32C3](getting-started/getting-connected/rddl-compatible-devices/espressif-esp32-and-esp32c3.md)
     * [⚡ Energy Tracker (FW to be made)](getting-started/getting-connected/rddl-compatible-devices/energy-tracker-fw-to-be-made.md)
-    * [⚓ Trust Wallet](getting-started/getting-connected/rddl-compatible-devices/trust-anchor.md)
   * [🛠️ Configure your Hardware as a Tasmota Node](getting-started/getting-connected/tasmota-node-configuration.md)
   * [📋 Connecting your Machine to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/README.md)
     * [®️ Registration of Machine ID and Attesting to the Network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/registration-of-machine-id-and-attesting-to-the-network.md)
 * [⚡ The EnergyAgent](getting-started/the-energyagent/README.md)
   * [▶️ Installation](getting-started/the-energyagent/installation.md)
+* [⚓ Trust Wallet](getting-started/trust-anchor.md)
+* [SMD (Smart Metering Device)](getting-started/smd-smart-metering-device.md)
 
 ## Workflows & Governance
 

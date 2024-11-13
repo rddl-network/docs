@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ®️ Registration of Machine ID and Attesting to the Network
 
 Every piece of hardware interacting with RDDL Network needs to be attested before it can start interacting. RDDL Networks assumes that hardware comes with a hardware secure element, such as integrated into the Trust Anchor, and expects that Trust Anchors are registered to the network before the interaction starts.&#x20;

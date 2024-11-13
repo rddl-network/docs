@@ -1,5 +1,6 @@
 ---
 description: This tutorial configures the Node to connect to the RDDL Testnet.
+hidden: true
 coverY: 0
 layout:
   cover:

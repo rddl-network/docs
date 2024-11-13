@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🧐 Is my Hardware Supported?
 
 Registering your Machine ID is a crucial step in onboarding your machine to the RDDL Network. The process varies depending on your machine type. Below, you'll find a flowchart that outlines the steps based on whether your hardware is RDDL certified, officially supported, or currently unsupported.

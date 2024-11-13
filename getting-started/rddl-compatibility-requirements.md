@@ -1,12 +1,13 @@
 ---
 description: A list of requirements that qualify a device to be RDDL-compatible.
+hidden: true
 ---
 
 # 🤓 Compatibility Requirements
 
 RDDL Network maintains a reference implementation of [Tasmota](https://github.com/rddl-network/Tasmota), supporting all the basic functionalities to participate in the RDDL Network protocol.
 
-* Support of a **unique machine identifier (Machine ID)** in the form of a public-private key pair. This key pair works as the anchor of Trust and can reside in a hardware-based [Trust Anchor](getting-connected/rddl-compatible-devices/trust-anchor.md) or within a unique firmware.
+* Support of a **unique machine identifier (Machine ID)** in the form of a public-private key pair. This key pair works as the anchor of Trust and can reside in a hardware-based [Trust Anchor](trust-anchor.md) or within a unique firmware.
 * **Network configuration** needs to be possible so that the Testnet and Mainnet can be configured for the device:
   * ChainID: the chainid of the network the device is connected against.
   * API: the API of a node or validator

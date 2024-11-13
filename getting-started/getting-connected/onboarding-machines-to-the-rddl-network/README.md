@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 📋 Connecting your Machine to the Network
 
 ### <mark style="color:green;">**Introduction:**</mark>&#x20;
@@ -6,7 +10,7 @@ Welcome to the RDDL Network! This guide will help you seamlessly onboard differe
 
 ## <mark style="color:green;">**Step 1: Registering Your Machine ID**</mark>
 
-Before your machine can join the RDDL Network, it needs a unique identifier called the Machine ID. This is a private/public key pair in your firmware or the Secure Element of your [Trust Wallet](../rddl-compatible-devices/trust-anchor.md). The Machine ID serves as your machine's passport to the network.
+Before your machine can join the RDDL Network, it needs a unique identifier called the Machine ID. This is a private/public key pair in your firmware or the Secure Element of your [Trust Wallet](../../trust-anchor.md). The Machine ID serves as your machine's passport to the network.
 
 The "[How to Register Your Machine ID](registration-of-machine-id-and-attesting-to-the-network.md)" section provides a detailed guide to the registration process.
 

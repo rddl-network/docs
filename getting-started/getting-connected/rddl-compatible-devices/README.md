@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✔️ Flashing supported Hardware
 
 The devices listed below meet the [compatibility requirements ](../../rddl-compatibility-requirements.md)for the RDDL Network.
@@ -11,7 +15,7 @@ The devices listed below meet the [compatibility requirements ](../../rddl-compa
 **RDDL (certified) devices**
 
 * [Energy Tracker](energy-tracker-fw-to-be-made.md)
-* [Trust Wallet](trust-anchor.md)
+* [Trust Wallet](../../trust-anchor.md)
 * [Energy Agent](../../the-energyagent/)
 
 **Potentially supported OEM devices**

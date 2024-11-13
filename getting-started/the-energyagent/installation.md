@@ -9,10 +9,11 @@ For any additional questions or needed support please access our Discord\
 
 ### Hardware Requirements
 
-* RDDL Energy Agent [.](./ "mention")
-* Trust Wallet
+* [RDDL Energy Agent](./)
+* [Trust Wallet](../trust-anchor.md)
 * Network connection (Ethernet or WiFi)
 * Power supply for Energy Agent
+* [Smart Metering Device (SMD)](../smd-smart-metering-device.md)
 
 ### Initial Setup
 

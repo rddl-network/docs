@@ -8,14 +8,14 @@ description: >-
 
 Keys and, therefore, identities are managed on both node types
 
-1. Tasmota Nodes
+1. Energy Agents
 2. Validator Nodes
 
-## Tasmota Nodes
+## Energy Agents
 
-Tasmota nodes come with a pre-attested MachineID that enables them to start interacting with the RDDL Network. The MachineID comes as a part of the firmware or is defined with an attached crypto-chip.&#x20;
+Energy Agents come with a pre-attested MachineID that enables them to start interacting with the RDDL Network. The MachineID comes as a part of the firmware or is defined with an attached crypto-chip.&#x20;
 
-The keys used to interact with Liquid and Planetmint are created via a key ceremony on the Tasmota Nodes. Details of the process are listed and laid out in the section about [compatible devices](broken-reference).
+The keys used to interact with Liquid and Planetmint are created via a key ceremony on the Energy Agents.
 
 The key ceremony includes the creation of the following identities:&#x20;
 
@@ -23,7 +23,7 @@ The key ceremony includes the creation of the following identities:&#x20;
 * a keypair to interact on Planetmint
   * a derived address on Planetmint
 
-RDDL Network lets machines participate as soon as they attest themselves as part of the [Machine Attestation](broken-reference) workflow. Within the process of the machine attestation, the public keys of the machine on Liquid, Planetmint, the Planetmint address and the Machine ID are attested and associated with each other.&#x20;
+RDDL Network lets machines participate as soon as they attest themselves as part of the [installation.md](../../getting-started/the-energyagent/installation.md "mention"). Within the process of the machine attestation, the public keys of the machine on Liquid, Planetmint, the Planetmint address and the Machine ID are attested and associated with each other.&#x20;
 
 It is possible to look up and verify if a given public key, address or machine ID belongs to the same machine as another given public key, address or machine ID.&#x20;
 

@@ -8,10 +8,16 @@ RDDL network wants to enable the notarization of
 * origin and provenance
 * integrity and authenticity of data.
 
-In order to participate a hardware-based machine is needed that is able to measure its energy consumption or production and notarize the above mentioned aspects.
+In order to participate a hardware-based machine bundle is needed that is able to measure its energy consumption or production and notarize the above mentioned aspects.
 
-You need Hardware for participation on the RDDL network. This Hardware will handle the data transmission and notarizing of the data.&#x20;
+Moreover, the machine bundle needs to be able to execute the protocol and to comply to the protocol.\
+This Hardware consists of at least 3 devices combined:
 
-Moreover, the machine needs to be able to execute the protocol and to comply to the protocol. These requirements are summarized in the compatibility requirements.
+* [EnergyAgent](the-energyagent/)&#x20;
+* [Trust Wallet](trust-anchor.md)&#x20;
+* one or multiple [SMD (Smart Metering Device) ](smd-smart-metering-device.md)
 
-Check out the [supported Hardware](getting-connected/rddl-compatible-devices/) section to see if your HW is already supported. If this is not the case have a look at the [Hardware Approval Process](rddl-network-hw-approval-process.md). And start [connecting your Machine](getting-connected/onboarding-machines-to-the-rddl-network/) after being compatible with the network.
+<figure><img src="../.gitbook/assets/EA no Antenna.png" alt=""><figcaption></figcaption></figure>
+
+\
+\
