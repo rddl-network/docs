@@ -25,6 +25,7 @@ Using your router's admin interface:
 
 * Look for connected devices
 * Find the device named "recomputer", "r1000" or similar
+* Once identified, set the Energy Agent to a static IP on the Network&#x20;
 
 #### **Connecting to Your Device**
 
