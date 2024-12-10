@@ -10,5 +10,5 @@ Visit our "[What We Do](readme/what-we-do.md)" and "[Our Features](readme/our-fe
 
 ### **Join the Network:**
 
-Ready to be a part of something groundbreaking? Our "[Get Started](https://docs.rddl.io/rddl-network/getting-started/how-can-i-participate)" guide provides clear instructions on setting up your [RDDL-compatible hardware](getting-started/getting-connected/rddl-compatible-devices/) and seamlessly [onboarding to the network](getting-started/getting-connected/onboarding-machines-to-the-rddl-network/). Let's unlock your potential together!
+Ready to be a part of something groundbreaking? Our "[Get Started](https://docs.rddl.io/rddl-network/getting-started/how-can-i-participate)" guide provides clear instructions on setting up your RDDL-compatible hardware and seamlessly onboarding to the network. Let's unlock your potential together!
 
