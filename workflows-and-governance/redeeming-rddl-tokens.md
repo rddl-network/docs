@@ -11,9 +11,9 @@ description: How to redeem earned RDDL tokens from your devices.
 
 ## Step-by-step guide
 
-1. Connect to your Tasmota device
-2. Go to **Consoles->console**
-3. Issue `redeemclaims <beneficiaryLiquidAddress>` command containing (e.g.: `redeemclaims tlq1qq2e96fx7t0gvtq9lhk3vg7qwf7s08479ap3wqyelp2c4ds9y7wesk97fd0sla2s7qck4ezns3gy6s8h4qw3e2tqkyfnkvxs4u`)
+1. Connect to your Energy Agent
+2. Go to **RDDL Network->Claim Rewards**
+3. Enter `<beneficiaryLiquidAddress>` containing (e.g.: `tlq1qq2e96fx7t0gvtq9lhk3vg7qwf7s08479ap3wqyelp2c4ds9y7wesk97fd0sla2s7qck4ezns3gy6s8h4qw3e2tqkyfnkvxs4u`)
 
 ## How it works
 
