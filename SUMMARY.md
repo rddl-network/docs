@@ -24,9 +24,10 @@
 * [🏁 Proof of Productivity](basics/proof-of-productivity/README.md)
   * [👩‍🎤 Actor Selection](basics/proof-of-productivity/actor-selection.md)
   * [⁉️ Challenge-Response](basics/proof-of-productivity/challenge-response.md)
-  * [🌈 Rewards](basics/proof-of-productivity/rewards/README.md)
+  * [💰 Rewards](basics/proof-of-productivity/rewards/README.md)
     * [🔢 Reward Calculation](basics/proof-of-productivity/rewards/reward-calculation.md)
     * [⌚ Clearance Process](basics/proof-of-productivity/rewards/clearance-process.md)
+    * [🪙 Claiming Rewards](basics/proof-of-productivity/rewards/claiming-rewards.md)
 * [🤝 Reissuance & Distribution](basics/reissuance-and-distribution.md)
 
 ## Getting Started
@@ -54,7 +55,6 @@
 
 * [Converting RDDL to PLMNT](workflows-and-governance/converting-rddl-to-plmnt.md)
 * [Voting on chain parameters](workflows-and-governance/voting-on-chain-parameters.md)
-* [Redeeming RDDL tokens](workflows-and-governance/redeeming-rddl-tokens.md)
 
 ## ⚒️ Infrastructure
 

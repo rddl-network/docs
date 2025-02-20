@@ -1,8 +1,8 @@
 ---
-description: How to redeem earned RDDL tokens from your devices.
+description: How to claim earned RDDL tokens from your devices.
 ---
 
-# Redeeming RDDL tokens
+# 🪙 Claiming Rewards
 
 ## Pre-requirements
 
@@ -33,7 +33,7 @@ sequenceDiagram
     participant ClaimService
     participant Liquid
     
-    Device->>Planetmint: send Redeem claim request
+    Device->>Planetmint: send claim request
     Planetmint->>ClaimService: send claim
     ClaimService->>Liquid: issue TX
     Liquid-->>ClaimService: TX hash
