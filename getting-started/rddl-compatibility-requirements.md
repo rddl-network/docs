@@ -1,6 +1,7 @@
 ---
 description: A list of requirements that qualify a device to be RDDL-compatible.
 hidden: true
+noIndex: true
 ---
 
 # 🤓 Compatibility Requirements
@@ -21,4 +22,4 @@ RDDL Network maintains a reference implementation of [Tasmota](https://github.co
   * Attest itself to the network
   * Attest assets/CIDs
   * Store CIDs and corresponding data for at least 45 days
-  * Implement the [PoPChallenge](https://github.com/rddl-network/Tasmota/blob/rddl-development/tasmota/tasmota\_support/support\_command.ino#L942) command for MQTT/XMPP as defined in the reference implementation at the [RDDL-Tasmota](https://github.com/rddl-network/Tasmota/) repository.
+  * Implement the [PoPChallenge](https://github.com/rddl-network/Tasmota/blob/rddl-development/tasmota/tasmota_support/support_command.ino#L942) command for MQTT/XMPP as defined in the reference implementation at the [RDDL-Tasmota](https://github.com/rddl-network/Tasmota/) repository.
