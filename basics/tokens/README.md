@@ -21,7 +21,10 @@ Initially, 10% of the RDDL DAO pool will be transferred to a Planetmint pool. Th
 
 At this point, the Liquid network operated by Blockstream is used. In the future, RDDL Network might or might not migrate to its self-maintained elements network.
 
+When the machine first attested it receives 8600 PLMNT to be able to operate on the Planetmint Network&#x20;
 
+* This enables the machine to notarize its consumption every hour for a period of one year
+* PLMNT  is needed to participate in the POP which rewards the machine with RDDL tokens
 
 ### Tokens & Layers
 

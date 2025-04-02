@@ -11,7 +11,6 @@
 * [⛓️ Networks](basics/chains.md)
 * [🪙 Tokens](basics/tokens/README.md)
   * [RDDL on Liquid](basics/tokens/rddl-on-liquid.md)
-  * [PLMNT on Planetmint](basics/tokens/plmnt-on-planetmint.md)
   * [Conversion Rate](basics/tokens/conversion-rate.md)
 * [🎆 Types of Nodes](basics/types-of-nodes/README.md)
   * [👛 Wallet Management](basics/types-of-nodes/wallet-management.md)
