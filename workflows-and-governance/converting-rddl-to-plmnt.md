@@ -15,9 +15,12 @@ description: >-
 
 ## Step-by-step guide
 
-1. Query the RDDL 2 PLMNT service of the Testnet or the Maintnet by calling, e.g. [https://testnet-r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm](https://testnet-r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm)\
-   or [https://r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm](https://r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm). This call will return a JSON object with the following data:\
-   `{ "liquid-address": "tlq1qq2e96fx7t0gvtq9lhk3vg7qwf7s08479ap3wqyelp2c4ds9y7wesk97fd0sla2s7qck4ezns3gy6s8h4qw3e2tqkyfnkvxs4u", "planetmint-beneficiary": "plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm" }`
+1.  Query the RDDL 2 PLMNT service of the Testnet or the Maintnet by calling `https://testnet-r2p.rddl.io/reciveaddress/` or `https://r2p.rddl.io/receivaddress/` with your **planemtint address** appended, e.g. for address _`plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm`_
+
+    this looks as follows [https://testnet-r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm](https://testnet-r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm)\
+    or [https://r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm](https://r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm).\
+    This call will return a JSON object with the following data:\
+    `{ "liquid-address": "tlq1qq2e96fx7t0gvtq9lhk3vg7qwf7s08479ap3wqyelp2c4ds9y7wesk97fd0sla2s7qck4ezns3gy6s8h4qw3e2tqkyfnkvxs4u", "planetmint-beneficiary": "plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm" }`
 2. Use the wallet of your choice (e.g.[Green Wallet](https://blockstream.com/green/) ) to transfer RDDL tokens on the Liquid network to the liquid-address mentioned above
 3. The Liquid address will be supervised for 12 hours, and the funds being received on that address by the next transaction will be converted to PLMNT tokens on planetmint and, after that, transferred to the before-mentioned planetmint address/beneficiary (e.g. plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm).
 
