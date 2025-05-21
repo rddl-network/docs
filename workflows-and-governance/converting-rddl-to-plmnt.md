@@ -15,7 +15,7 @@ description: >-
 
 ## Step-by-step guide
 
-1.  Query the RDDL 2 PLMNT service of the Testnet or the Maintnet by calling `https://testnet-r2p.rddl.io/reciveaddress/` or `https://r2p.rddl.io/receivaddress/` with your **planemtint address** appended, e.g. for address _`plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm`_
+1.  Query the RDDL 2 PLMNT service of the Testnet or the Maintnet by calling `https://testnet-r2p.rddl.io/receiveaddress/` or `https://r2p.rddl.io/receiveaddress/` with your **planemtint address** appended, e.g. for address _`plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm`_
 
     this looks as follows [https://testnet-r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm](https://testnet-r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm)\
     or [https://r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm](https://r2p.rddl.io/receiveaddress/plmnt1atfrnm80xyg86s85xp0av2ukap8n4ap7pevptm).\
