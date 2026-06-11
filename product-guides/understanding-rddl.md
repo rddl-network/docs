@@ -1,4 +1,4 @@
-# ✅ Understanding RDDL
+# Understanding RDDL
 
 ## How RDDL works
 

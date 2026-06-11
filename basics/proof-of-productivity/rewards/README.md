@@ -1,4 +1,4 @@
-# 💰 Rewards
+# Rewards
 
 The following paragraphs give an overview of how rewards are created and managed. The following stages are processed until someone can access their RDDL rewards:
 

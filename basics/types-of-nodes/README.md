@@ -1,4 +1,4 @@
-# 🎆 Types of Nodes
+# Types of Nodes
 
 The following types of nodes exist in the RDDL Network and are listed with their HW and SW components.
 

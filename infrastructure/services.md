@@ -2,7 +2,7 @@
 description: Available services and responsibilities for RDDL
 ---
 
-# 🧁 Services
+# Services
 
 
 

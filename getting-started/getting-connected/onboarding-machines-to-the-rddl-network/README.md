@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 📋 Connecting your Machine to the Network
+# Connecting your Machine to the Network
 
 ### <mark style="color:green;">**Introduction:**</mark>&#x20;
 

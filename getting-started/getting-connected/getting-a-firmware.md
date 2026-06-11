@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# ⚡ Getting a Firmware
+# Getting a Firmware
 
 A RDDL-compatible firmware has to meet the [Compatibility Requirements](../rddl-compatibility-requirements.md).
 

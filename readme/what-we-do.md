@@ -1,4 +1,4 @@
-# 💡 What we do
+# What we do
 
 ## The physical trust stack for Web3
 

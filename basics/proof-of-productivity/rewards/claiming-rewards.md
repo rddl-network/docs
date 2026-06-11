@@ -2,7 +2,7 @@
 description: How to claim earned RDDL tokens from your devices.
 ---
 
-# 🪙 Claiming Rewards
+# Claiming Rewards
 
 ## Pre-requirements
 

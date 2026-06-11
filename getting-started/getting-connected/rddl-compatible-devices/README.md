@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# ✔️ Flashing supported Hardware
+# Flashing Supported Hardware
 
 The devices listed below meet the [compatibility requirements ](../../rddl-compatibility-requirements.md)for the RDDL Network.
 

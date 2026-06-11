@@ -1,4 +1,4 @@
-# ⚓ Trust Wallet
+# Trust Wallet
 
 The RDDL Trust Wallet combines a powerful development board based on the popular Xiao ESP32-C3 microcontroller with an SE050 Secure Element chip. It enhances product data trustworthiness by providing an immutable digital identity easily connectable to any device on the RDDL Network.
 

@@ -1,4 +1,4 @@
-# 🎭 Actors
+# Actors
 
 * Pro/consumer machines by Tasmota Nodes
   * Data notarization

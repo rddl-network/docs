@@ -1,4 +1,4 @@
-# ⚡ The EnergyAgent
+# The EnergyAgent
 
 RDDL.io developed the EnergyAgent to overcome limitations we faced during the integration of different sets of solutions.&#x20;
 

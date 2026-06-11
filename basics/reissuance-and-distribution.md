@@ -1,4 +1,4 @@
-# 🤝 Reissuance & Distribution
+# Reissuance & Distribution
 
 RDDL Network initially anticipated notarizing all important aspects of two chains: Liquid and Planetmint.  It, of course, turned out not to be economically sustainable. Therefore, all PoP rewards and distribution activities are notarized on Liquid once a day. This process contains two steps: the reissuance of the RDDL tokens and their distribution.
 

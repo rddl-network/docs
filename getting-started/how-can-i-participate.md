@@ -1,4 +1,4 @@
-# ❓ How can I participate?
+# How can I participate?
 
 RDDL network wants to enable the notarization of
 

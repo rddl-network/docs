@@ -1,4 +1,4 @@
-# 👛 Wallet Management
+# Wallet Management
 
 The different types of nodes manage different types of wallets. The key ceremony initializes all of them.
 

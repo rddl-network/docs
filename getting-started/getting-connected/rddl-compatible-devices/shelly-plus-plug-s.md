@@ -1,4 +1,4 @@
-# 🔌 Shelly Plus Plug S
+# Shelly Plus Plug S
 
 The [**Shelly Plus Plug S**](https://www.amazon.de/Shelly-Plus-Plug-programmierbare-Sprachsteuerung/dp/B0BTJ1DTBX/ref=sr\_1\_2?keywords=shelly%2Bplug%2Bs\&sr=8-2\&th=1) does not have an **RDDL Network**-compatible Tasmota firmware. Instead, it comes with a Mongoose OS.
 

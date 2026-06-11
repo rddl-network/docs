@@ -1,4 +1,4 @@
-# 🪙 Tokens
+# Tokens
 
 RDDL Network knows two types of tokens:
 

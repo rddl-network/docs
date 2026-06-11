@@ -1,4 +1,4 @@
-# ⚡ Energy Tracker (FW to be made)
+# Energy Tracker (FW to be made)
 
 > The Energy Tracker is powered by an **ESP32-C6** chip and features a built-in IR sensor for reading and writing data to and from a Smart Meter. It also includes a USB Type-C port and an M-Bus connector. The device is equipped with two AAA batteries for easy replacement and a long battery life. The SE050 provides the necessary cryptographic hardware framework to comply with cryptographic primitives.
 

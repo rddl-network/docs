@@ -1,4 +1,4 @@
-# ✨ Our Features
+# Our Features
 
 RDDL network combines the notarization and governance-focused aspects of Planetmint with the ease of tokenization on Liquid.&#x20;
 

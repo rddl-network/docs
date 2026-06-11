@@ -3,7 +3,7 @@ hidden: true
 noIndex: true
 ---
 
-# 🥂 Getting Connected
+# Getting Connected
 
 This documentation targets technology-savvy people and provides a step-by-step guide for connecting their devices to the RDDL Testnet.
 

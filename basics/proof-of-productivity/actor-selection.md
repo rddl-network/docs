@@ -1,4 +1,4 @@
-# 👩🎤 Actor Selection
+# Actor Selection
 
 The CometBFT consensus algorithm selects the acting validator. The algorithm selects Block creators for each epoch/block.
 

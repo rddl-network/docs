@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ⛓️ Networks
+# Networks
 
 The following public networks are currently maintained and available:
 

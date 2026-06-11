@@ -1,4 +1,4 @@
-# ▶️ Installation
+# Installation
 
 {% hint style="info" %}
 For any additional questions or needed support please access our Discord\

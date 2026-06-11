@@ -4,7 +4,7 @@ description: >-
   wallets the node supports.
 ---
 
-# 🔐 Key Ceremony
+# Key Ceremony
 
 Keys and, therefore, identities are managed on both node types
 

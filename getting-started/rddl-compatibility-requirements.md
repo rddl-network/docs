@@ -4,7 +4,7 @@ hidden: true
 noIndex: true
 ---
 
-# 🤓 Compatibility Requirements
+# Compatibility Requirements
 
 RDDL Network maintains a reference implementation of [Tasmota](https://github.com/rddl-network/Tasmota), supporting all the basic functionalities to participate in the RDDL Network protocol.
 

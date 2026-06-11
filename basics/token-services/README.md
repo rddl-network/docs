@@ -1,4 +1,4 @@
-# 🤝 Token Services
+# Token Services
 
 The following set of services exist on Planetmint
 

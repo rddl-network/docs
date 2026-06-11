@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# 🛠️ Configure your Hardware as a Tasmota Node
+# Configure your Hardware as a Tasmota Node
 
 The nodes come with firmware from [https://github.com/rddl-network/Tasmota](https://github.com/rddl-network/Tasmota) and are compatible with [https://github.com/planetmint/planetmint-go](https://github.com/planetmint/planetmint-go).
 

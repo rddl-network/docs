@@ -1,4 +1,4 @@
-# 🏁 Proof of Productivity
+# Proof of Productivity
 
 ## Overview
 

@@ -5,7 +5,7 @@ description: >-
   stated by its CID notarization.
 ---
 
-# ⁉️ Challenge-Response
+# Challenge-Response
 
 At the end of an epoch (2 min), the proposing Validator initiates the PoP-related challenge response by sending MQTT messages to the challenger and the challengee (see [Actor Selection ](actor-selection.md)paragraph).
 

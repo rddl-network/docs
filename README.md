@@ -1,14 +1,20 @@
-# 👋 Welcome to RDDL
+# Welcome to RDDL
 
-## Overview
+RDDL Network is a decentralized protocol that connects physical machines to blockchain infrastructure, enabling them to attest their identity, notarize data and productivity, and earn rewards through verified contributions.
 
-RDDL leverages the power of two innovative technologies. The **Liquid Network**, a high-performance Bitcoin sidechain developed by [**Blockstream**](https://blockstream.com/liquid/)**.** And secondly [**Planetmint**](https://planetmint.io/), a next-generation data storage solution from the [**IPLD Foundation**](https://ipld.io/). This combination enables secure, efficient and collaborative interactions within the RDDL network.
+## How it works
 
-### **Explore the Possibilities:**
+The network operates across two blockchain layers:
 
-Visit our "[What We Do](readme/what-we-do.md)" and "[Our Features](readme/our-features.md)" sections to discover how RDDL can benefit your specific needs. You'll learn about the unique functionalities and advantages that set RDDL apart.
+- **[Planetmint](https://planetmint.io/)** (Layer 1) handles machine identity attestation, data notarization, and the [Proof of Productivity](basics/proof-of-productivity/) (PoP) consensus mechanism.
+- **[Liquid Network](https://blockstream.com/liquid/)** (Layer 2), a Bitcoin sidechain by Blockstream, handles token issuance, distribution, and reward settlement.
 
-### **Join the Network:**
+Machines prove their productivity through periodic challenge-response rounds. Verified contributions are rewarded with RDDL tokens, reissued and distributed on Liquid once daily.
 
-Ready to be a part of something groundbreaking? Our "[Get Started](https://docs.rddl.io/rddl-network/getting-started/how-can-i-participate)" guide provides clear instructions on setting up your RDDL-compatible hardware and seamlessly onboarding to the network. Let's unlock your potential together!
+## What these docs cover
+
+- **[Basics](basics/understanding-rddl.md)** -- Core concepts: actors, tokens, node types, token services, and the Proof of Productivity mechanism.
+- **[Getting Started](getting-started/how-can-i-participate.md)** -- Hardware requirements, firmware setup, and step-by-step instructions for connecting your machine to the network.
+- **[Workflows & Governance](workflows-and-governance/converting-rddl-to-plmnt.md)** -- Token conversion, on-chain voting, and network governance.
+- **[Infrastructure](infrastructure/services.md)** -- Public services operated by the RDDL Network (explorer, API, CID resolver).
 
