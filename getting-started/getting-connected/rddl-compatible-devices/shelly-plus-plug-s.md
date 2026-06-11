@@ -41,7 +41,7 @@ Follow the steps to get your Shelly Plus Plug S RDDL ready.
 5. Upgrade to the previously downloaded firmware by selecting _**Firmware Upgrade**_, dragging and dropping the _**tasmota32-rddl.bin**_ file onto the _**Upgrade by file upload**_ section and finally, by clicking _**Start Upgrade**_.
 
 {% hint style="info" %}
-**Resizing (Step 3)** is important in order to have fresh working filesystem. Issues got experiencd otherwise.
+**Resizing (Step 3)** is important in order to have fresh working filesystem. Issues were experienced otherwise.
 {% endhint %}
 
 The LED configuration of the Plug can be configured as described at\

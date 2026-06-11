@@ -4,7 +4,7 @@
 
 **Issuance**: Initially, 998.69 RDDL were issued on Liquid.&#x20;
 
-**Reissuance**: Planetmint consensus triggers a reissuance of RDDL tokens every 2 minutes after the **Proof of Productivity**. The reissuance is defined as follows:
+**Reissuance**: Planetmint consensus runs the **Proof of Productivity** every 2 minutes. The resulting RDDL token rewards are accumulated and reissued on Liquid once daily. The reissuance amounts per PoP epoch are defined as follows:
 
 * First 4 Years: 998.69 tokens every 2 minutes
 * Second 4 Years: 499.34 tokens every 2 minutes
@@ -42,4 +42,4 @@ The DAO escrow converts 10% of all incoming reissued tokens into PLMNTs and dist
 
 ### RDDL2PLMNT escrow
 
-The RDDL2PLMNT service maintains the escrow mints **planets** (PLMNT tokens) for the incoming amount of RDDL tokens. The initial conversion rate is equal to **1 PLMNT = 0.04 RDDL.**
+The RDDL2PLMNT service maintains the escrow mints **planets** (PLMNT tokens) for the incoming amount of RDDL tokens. The initial conversion rate is equal to **1 PLMNT = 0.01 RDDL.**

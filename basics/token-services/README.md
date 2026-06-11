@@ -1,6 +1,6 @@
 # 🤝 Token Services
 
-The following set of service exist on Planetmint
+The following set of services exist on Planetmint
 
 1. [**Machine Identity Attestation**](machine-identity-attestation.md) is a process triggered on planetmint to attest machines for the RDDL Network. The extended public keys of the machine are notarized.
 2. [**RDDL Purpose Tokens**](rddl-purpose-tokens.md) can be issued on Liquid Network by 3rd parties (economic actors) and be used to interact economically with machines, their signals, and their data.

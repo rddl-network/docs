@@ -17,3 +17,6 @@ Machine Identity attestation takes place on Planetmint  The following details ar
     5. smart batteries
     6. inverter
     7. controller
+    8. charger
+    9. BMS (battery management system)
+    10. ESS (energy storage system)

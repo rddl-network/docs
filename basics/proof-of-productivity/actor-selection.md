@@ -23,7 +23,7 @@ participant Challengee
 Participant Planetmint-Node
 
 loop Availability Check - until 2 available actors are found
-Validator ->> Validator: select challenger & challenge
+Validator ->> Validator: select challenger & challengee
 Validator ->> Challenger: M2M: are you available?
 Challenger ->> Validator: M2M: yes/no/no-answer
 Validator ->> Challengee: M2M: are you available?

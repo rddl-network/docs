@@ -33,7 +33,7 @@ sequenceDiagram
     
     loop Distribution - 30 minutes after reissuance
         Proposing-Validator->>Planetmint: Create & Broadcast Distribution Request
-        All-Validators->>All-Validators: Validate Distibution Request
+        All-Validators->>All-Validators: Validate Distribution Request
         All-Validators->>Planetmint: Approve or reject distribution Request
         Planetmint->>All-Validators: Distribute request (if approved)
         Proposing-Validator->>2of3-ReissuanceWallet: distribute tokens if request got approved

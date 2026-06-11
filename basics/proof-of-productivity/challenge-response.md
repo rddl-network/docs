@@ -13,12 +13,12 @@ The initialized challenge-response process is described below:
 
 1. Challenger and challengee request the details of the PoP by calling [/planetmint/dao/challenge/{height}](https://testnet-api.rddl.io/#/Query/PlanetmintgoDaoGetChallenge).
 2. The challenger selects a random `CID` from a list of CIDs for a certain period provided by calling  [/planetmint/dao/address/{address}/{lookupPeriodInMin}](https://testnet-api.rddl.io/#/Query/PlanetmintgoAssetGetCIDsByAddress) .
-3. The challenger subscribes to the `PoPChallengeResult-`topic of the challangee (`stat/<challangee-address>/POPCHALLENGERESULT`).
-4. The challenger sends the `cmnd/<challangee-address>/PoPChallenge <CID>` command to the challengee.
+3. The challenger subscribes to the `PoPChallengeResult-`topic of the challengee (`stat/<challengee-address>/POPCHALLENGERESULT`).
+4. The challenger sends the `cmnd/<challengee-address>/PoPChallenge <CID>` command to the challengee.
 5. The challengee looks up the corresponding CID data and transfers it to the challenger via the `POPCHALLENGERESULT`command.
 6. The challenger receives the data via the subscribed topic and computes the `CID'` of the provided content.&#x20;
 7. The challenger notarizes a ReportPopResult message with `Success = true` if the computed `CID'` equals the requested `CID` and `Success = false`, otherwise.
-8. The challenger unsubscribes from `stat/<challangee-address>/POPCHALLENGERESULT`.
+8. The challenger unsubscribes from `stat/<challengee-address>/POPCHALLENGERESULT`.
 
 
 
@@ -46,12 +46,12 @@ Challenger->>Challenger: select a random CID
 end 
 
 loop Challenge CID
-Challenger->>Challenger: Subscribe to topic "stat/<challangee-address>/POPCHALLENGERESULT"
-Challenger->>Challengee: send command "cmnd/<challangee-address>/PoPChallenge <CID>"
+Challenger->>Challenger: Subscribe to topic "stat/<challengee-address>/POPCHALLENGERESULT"
+Challenger->>Challengee: send command "cmnd/<challengee-address>/PoPChallenge <CID>"
 Challengee->>Challengee: lookup CID content from FS
-Challengee->>Challengee: respond via stat/<challangee-address>/POPCHALLENGERESULT" CONTENT and requested CID
+Challengee->>Challengee: respond via stat/<challengee-address>/POPCHALLENGERESULT" CONTENT and requested CID
 Challenger->>Challenger: compute CID` create_cid(CONTENT_I) and compare result to CID
-Challenger->>Challenger: unsubscribe from "stat/<challangee-address>/POPCHALLENGERESULT"
+Challenger->>Challenger: unsubscribe from "stat/<challengee-address>/POPCHALLENGERESULT"
 end
 
 Challenger->>Challenger: Create PoP Result: ReportPopResult with the challenge details.

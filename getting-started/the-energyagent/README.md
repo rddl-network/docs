@@ -1,6 +1,6 @@
 # ⚡ The EnergyAgent
 
-RDDL.io developed the EnergyAgent to overcome limitations we faced while integrating that we faced during the integration of different sets of solutions.&#x20;
+RDDL.io developed the EnergyAgent to overcome limitations we faced during the integration of different sets of solutions.&#x20;
 
 The EnergyAgent's goal is to work as a rock-solid piece of hardware to notarize the consumption of a range of smart metering devices (SMDs) that cannot natively connect to the RDDL network.
 

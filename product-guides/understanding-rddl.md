@@ -21,7 +21,7 @@ To not overload **Layer 1** with metadata and to guarantee the settlement logic 
 
 An RDDL-compatible device must be attached and connected to the machine to connect the machine to the RDDL network. The RDDL-compatible device expects internet access to connect to the RDDL network.&#x20;
 
-The RDDl device has to run the [0x21e8 RDDL Interaction Service](https://github.com/rddl-network/0x21e8). The rddl-client usually initiates interaction with the service and RDDL network.
+The RDDL device has to run the [0x21e8 RDDL Interaction Service](https://github.com/rddl-network/0x21e8). The rddl-client usually initiates interaction with the service and RDDL network.
 
 #### Key Ceremony
 

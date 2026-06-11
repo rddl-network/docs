@@ -5,7 +5,7 @@ noIndex: true
 
 # 🗜️ Hardware approval process
 
-The RDDL Network HW approval process takes care about onboarding machiens different to the Tasmota references implementation. The protocol hasn't been completely specified.&#x20;
+The RDDL Network HW approval process takes care about onboarding machines different to the Tasmota references implementation. The protocol hasn't been completely specified.&#x20;
 
 [Compatibility Requirements](rddl-compatibility-requirements.md) need to be met and the followings steps need to be taken before requesting approval:
 

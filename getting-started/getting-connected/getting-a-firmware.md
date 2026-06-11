@@ -6,7 +6,7 @@ hidden: true
 
 A RDDL-compatible firmware has to meet the [Compatibility Requirements](../rddl-compatibility-requirements.md).
 
-Reference firmwares - so called [RDDL-Tasmota](https://github.com/rddl-network/Tasmota) firmwares - based on [Tasmota](https://github.com/arendst/Tasmota) including [librddl](https://github.com/rddl-network/librddl/) can be retreived from the following URLs for the following MCUs
+Reference firmwares - so called [RDDL-Tasmota](https://github.com/rddl-network/Tasmota) firmwares - based on [Tasmota](https://github.com/arendst/Tasmota) including [librddl](https://github.com/rddl-network/librddl/) can be retrieved from the following URLs for the following MCUs
 
 Testnet:
 

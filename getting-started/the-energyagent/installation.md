@@ -102,7 +102,7 @@ example: 192.168.1.100:2138
 
 ### Initialize the TrustWallet
 
-The TrustWallet comes pre-provisioned and attested to be used on the mainnet. However, the EnergyAgnt needs a set of unique keys before connecting to the mainnet, so the TrustWallet needs to be configured. Within the TrustWallet menu (select Trust Wallet Icon on the left), then click **Create Mnemonic**.&#x20;
+The TrustWallet comes pre-provisioned and attested to be used on the mainnet. However, the EnergyAgent needs a set of unique keys before connecting to the mainnet, so the TrustWallet needs to be configured. Within the TrustWallet menu (select Trust Wallet Icon on the left), then click **Create Mnemonic**.&#x20;
 
 
 

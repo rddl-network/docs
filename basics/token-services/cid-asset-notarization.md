@@ -4,7 +4,7 @@ CID assets are notarized and traded on RDDLs Planetmint network ([SLIP44:  PLMNT
 
 Non-fungible CID Assets can e.g. represent a set of data to be tokenized or other unique aspects.&#x20;
 
-The notarization process is based from underlying secure HW concepts and is built around the following values
+The notarization process is based on underlying secure HW concepts and is built around the following values
 
 * guarantee of data provenance,
 * signal integrity,
