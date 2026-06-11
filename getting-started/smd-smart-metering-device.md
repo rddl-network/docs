@@ -1,7 +1,3 @@
----
-icon: gauge-circle-bolt
----
-
 # SMD (Smart Metering Device)
 
 Smart Metering Devices could be any Shelly or Tasmota Smart Plug which is capable of Mqtt.\
